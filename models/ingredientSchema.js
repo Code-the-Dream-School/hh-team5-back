@@ -1,4 +1,4 @@
-const mongoose = require("mongoose")
+const mongoose = require("mongoose");
 
 const ingredientSchema=mongoose.Schema({
     name: {
@@ -6,15 +6,12 @@ const ingredientSchema=mongoose.Schema({
         required: true
 
     },
-    measure: {
+    preparation: {
         type: String,
         required: true
-    },
-    image: {
-        type: String,
-        required: false
     }
+
 
 });
 
-module.exports=mongoose.model("Ingredients", ingredientSchema)
+module.exports = ingredientSchema;
