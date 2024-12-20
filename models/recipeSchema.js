@@ -2,10 +2,6 @@ const mongoose = require("mongoose");
 const ingredientSchema = require("./ingredient");
 
 const recipeSchema=mongoose.Schema({
-    recipeID: {
-        type: Number,
-        required: true
-    },
     name: {
         type: String,
         required: true
