@@ -19,6 +19,14 @@ const login = async (req, res) => {
             process.env.ACCESS_TOKEN_SECRET,
             { expiresIn: '10m' }
         );
+
+        // Store token in a secure cookie (HTTP-only)
+        res.cookie('jwt', accessToken, {
+            httpOnly: true,  // Can't be accessed by JavaScript (prevents XSS attacks)
+            secure: process.env.NODE_ENV === 'production',  // Use secure cookies in production (HTTPS)
+            sameSite: 'None',  // Required for cross-site cookies (CORS issues)
+            maxAge: 10 * 60 * 1000  // Token expires in 10 minutes
+        });
        
         // Respond with access token
         res.json({ accessToken });

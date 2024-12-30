@@ -1,13 +1,13 @@
 const jwt = require('jsonwebtoken');
 
 const authenticate = (req, res, next) => {
-    const authHeader = req.headers.authorization || req.headers.Authorization;
+    const cookies = req.cookies; 
+    if (!cookies) {
+        return res.status(401).json({ message: "No authentication token found." }); // Proper response if token is missing
+    }
 
-    // Ensure the header exists and starts with 'Bearer '
-    if (!authHeader?.startsWith('Bearer ')) return res.sendStatus(401); // Unauthorized
-
-    // Extract the token from the header
-    const token = authHeader.split(' ')[1];
+    const token = cookies.jwt; // Extract token from cookies
+    if (!token) return res.status(401).json({ message: "Unauthorized access. Please login first." }); // No token, unauthorized with message // No token, unauthorized
 
     // Verify the token
     jwt.verify(token, process.env.ACCESS_TOKEN_SECRET, (err, decoded) => {

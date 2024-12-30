@@ -11,6 +11,7 @@ const {
 
 const { register } = require('../controllers/registerController');
 const { login } = require('../controllers/loginController.js');
+const { logout } = require('../controllers/logoutController.js');
 
 
 const authenticate = require('../middleware/authenticate');
@@ -25,9 +26,9 @@ router.get("/search", searchByIngredient);
 
 
 router.post('/register', register);
-router.post('/login', login)
+router.post('/login', login);
 
-
+router.post('/logout', logout); 
 
 // Protected Route - Favorite List
 router.get('/favorites', authenticate, (req, res) => res.json([
