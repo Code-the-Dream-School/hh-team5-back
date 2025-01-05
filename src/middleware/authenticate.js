@@ -1,12 +1,16 @@
 const jwt = require('jsonwebtoken');
 
 const authenticate = (req, res, next) => {
-    const cookies = req.cookies; 
+    const cookies = req.cookies.jwt;
+    console.log('log from authenticate: ', cookies);
+    console.log('log from auth (header) ', req.headers);
+
+
     if (!cookies) {
         return res.status(401).json({ message: "No authentication token found." }); // Proper response if token is missing
     }
 
-    const token = cookies.jwt; // Extract token from cookies
+    const token = req.cookies.jwt; // Extract token from cookies
     if (!token) return res.status(401).json({ message: "Unauthorized access. Please login first." }); // No token, unauthorized with message // No token, unauthorized
 
     // Verify the token
