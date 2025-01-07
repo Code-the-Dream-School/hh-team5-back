@@ -23,6 +23,7 @@ const {
   deleteFavorite,
 } = require("../controllers/favoriteController.js");
 
+const authenticate = require("../middleware/authenticate");
 /* ============================================================= */
 router.get("/", mainController.get);
 
