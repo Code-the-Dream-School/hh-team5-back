@@ -3554,5 +3554,277 @@
     "sourceURL": "https://www.allrecipes.com/recipe/14543/garlic-and-onion-burgers/",
     "timeCook": "120 mins",
     "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1055214.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "recipeID": 84,
+    "name": "Banana Chocolate Chip Bread",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "2 cups" },
+      { "name": "baking powder", "preparation": "1 teaspoon" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1 teaspoon" },
+      { "name": " bananas", "preparation": "3, mashed" },
+      { "name": "milk", "preparation": "1 tablespoon" },
+      { "name": "ground cinnamon", "preparation": "1 teaspoon" },
+      { "name": "white sugar", "preparation": "1 cup" },
+      { "name": "butter", "preparation": "½ cup, softened" },
+      { "name": "eggs", "preparation": "2 large" },
+      { "name": "semisweet chocolate chips", "preparation": "1 cup" }
+    ],
+    "directions": [
+      "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan",
+      "In a bowl, mix flour, baking powder, baking soda, and salt",
+      "In another bowl, stir together mashed bananas, milk, and cinnamon",
+      "In a large bowl, beat sugar and butter with an electric mixer until light and fluffy. Add eggs one at a time, beating well after each addition",
+      "Stir the banana mixture into the butter mixture. Add the flour mixture, mixing until just blended. Fold in chocolate chips",
+      "Pour batter into the prepared loaf pan",
+      "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 70 minutes",
+      "Cool in the pan for 10 minutes, then remove to cool completely on a wire rack before slicing"
+    ],
+    "sourceURL": "",
+    "timeCook": "95 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/Ux1WygbzM5tIXvqZFTVzx2_70P0=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/230482-banana-chocolate-chip-bread-ddmfs-beauty-3x4-0504-57b8bdac318b4d84ba58eaccd3672eef.jpg"
+  },
+  {
+    "recipeID": 85,
+    "name": "Banana Pumpkin Bread",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "1 3/4 cups" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "ground cinnamon", "preparation": "1/2 teaspoon" },
+      { "name": "ground nutmeg", "preparation": "1/4 teaspoon" },
+      { "name": " bananas", "preparation": "1 cup" },
+      { "name": "pumpkin puree", "preparation": "1 cup" },
+      { "name": "sugar", "preparation": "3/4 cup" },
+      { "name": "brown sugar", "preparation": "1/4 cup" },
+      { "name": "vegetable oil", "preparation": "1/2 cup" },
+      { "name": "eggs", "preparation": "2 large" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" }
+    ],
+    "directions": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan",
+      "Stir together bananas, pumpkin, honey, sugar, vegetable oil, and eggs in a large bowl. Combine flour, pie spice, baking powder, baking soda, cinnamon, and salt in a separate bowl. Stir flour mixture into banana mixture until just combined. Fold in raisins and walnuts. Pour batter into the prepared pan",
+      "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, about 45 minutes. Cool loaf in the pan for 10 minutes before transferring to a wire rack to cool completely"
+    ],
+    "sourceURL": "",
+    "timeCook": "65 mins",
+    "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F06%2F16%2F9417823-banana-pumpkin-bread-Kim-4x3-1.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "recipeID": 86,
+    "name": "Oatmeal Banana Raisin Coconut Cookies",
+    "ingredients": [
+      { "name": "margarine", "preparation": "1 ¼ cups" },
+      { "name": "brown sugar", "preparation": "¾ cup, firmly packed" },
+      { "name": "sugar", "preparation": "½ cup" },
+      { "name": "egg", "preparation": "1, lightly beaten" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" },
+      { "name": "all-purpose flour", "preparation": "1 ½ cups" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "½ teaspoon" },
+      { "name": "ground cinnamon", "preparation": "1 teaspoon" },
+      { "name": "ground nutmeg", "preparation": "¼ teaspoon" },
+      { "name": "ground cloves", "preparation": "⅛ teaspoon" },
+      { "name": "rolled oats", "preparation": "3 cups" },
+      { "name": "banana", "preparation": "2 ripe, sliced" },
+      { "name": "raisins", "preparation": "1 ½ cups" },
+      { "name": "flaked coconut", "preparation": "1 cup" }
+    ],
+    "directions": [
+      "Preheat the oven to 375 degrees F (190 degrees C)",
+      "In a large bowl, cream together margarine, brown sugar, and white sugar. Beat in egg and vanilla. Combine flour, baking soda, salt, cinnamon, nutmeg, and cloves; stir into creamed mixture until well blended. Stir in oats, bananas, raisins, and coconut, one at a time using a wooden spoon. Drop by rounded spoonfuls 2 inches apart onto the prepared cookie sheets",
+      "Bake for 11 to 13 minutes in the preheated oven. Allow cookies to cool on baking sheets for 1 minute before removing to a wire rack to cool completely"
+    ],
+    "sourceURL": "",
+    "timeCook": "30 mins",
+    "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8247143.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "recipeID": 87,
+    "name": "Hawaiian Banana Nut Bread",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "3 cups" },
+      { "name": "sugar", "preparation": "2 cups" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1 teaspoon" },
+      { "name": "ground cinnamon", "preparation": "1 teaspoon" },
+      { "name": "eggs", "preparation": "3 large, beaten" },
+      { "name": "vegetable oil", "preparation": "1 cup" },
+      { "name": "vanilla extract", "preparation": "2 teaspoons" },
+      { "name": "banana", "preparation": "2 cups, mashed" },
+      {
+        "name": "crushed pineapple",
+        "preparation": "1 (8 ounce) can, drained"
+      },
+      { "name": "walnuts", "preparation": "1 cup, chopped" }
+    ],
+    "directions": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9x5-inch loaf pans",
+      "In a large bowl, whisk together flour, sugar, baking soda, salt, and cinnamon",
+      "In a separate bowl, beat eggs, oil, and vanilla extract together. Stir in mashed bananas",
+      "Combine the wet and dry ingredients, stirring until just blended. Fold in pineapple and walnuts",
+      "Pour batter into the prepared loaf pans and bake for 60 minutes or until a toothpick inserted in the center comes out clean",
+      "Cool in pans for 10 minutes before transferring to a wire rack to cool completely"
+    ],
+    "sourceURL": "",
+    "timeCook": "80 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/Izx8dpUafLs0C00pqFZ3BieYwCw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/727738-468aacb2bbd44e1e8e50ceca2639aa1f.jpg"
+  },
+  {
+    "recipeID": 88,
+    "name": "Easy Banana Fritters",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "1 cup" },
+      { "name": "sugar", "preparation": "3 tablespoons" },
+      { "name": "baking powder", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "½ teaspoon" },
+      { "name": "ground cinnamon", "preparation": "¼ teaspoon" },
+      { "name": "ground nutmeg", "preparation": "1 pinch" },
+      { "name": "banana", "preparation": "2, mashed" },
+      { "name": "eggs", "preparation": "2 large" },
+      { "name": "milk", "preparation": "2 tablespoons" },
+      { "name": "margarine", "preparation": "1 tablespoon, melted" },
+      { "name": "vegetable oil", "preparation": "2 cups, for frying" },
+      { "name": "confectioner sugar", "preparation": "1 cup, for dusting" }
+    ],
+    "directions": [
+      "In a bowl, whisk flour, sugar, baking powder, and salt",
+      "Stir in milk, mashed bananas, and egg until well combined",
+      "Heat oil in a skillet over medium heat",
+      "Drop spoonfuls of batter into the hot oil and fry until golden brown",
+      "Drain fritters on paper towels and dust with powdered sugar"
+    ],
+    "sourceURL": "",
+    "timeCook": "15 mins",
+    "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9170792.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "recipeID": 89,
+    "name": "Apple Banana Cupcakes",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "2 cups" },
+      { "name": "sugar", "preparation": "1 cup" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "ground cinnamon", "preparation": "1/2 teaspoon" },
+      { "name": "banana", "preparation": "2 ripe, mashed" },
+      { "name": "apples", "preparation": "1 cup, grated" },
+      { "name": "eggs", "preparation": "2 large, beaten" },
+      { "name": "vegetable oil", "preparation": "1/2 cup" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" }
+    ],
+    "directions": [
+      "Preheat the oven to 350 degrees F (175 degrees C) and grease muffin tins",
+      "In a large bowl, mix together flour, sugar, baking soda, salt, and cinnamon",
+      "In another bowl, combine mashed bananas, grated apple, eggs, oil, and vanilla",
+      "Stir the banana mixture into the flour mixture until just blended",
+      "Spoon the batter into the prepared muffin tins",
+      "Bake for 20 to 25 minutes until a toothpick inserted in the center comes out clean"
+    ],
+    "sourceURL": "",
+    "timeCook": "45 mins",
+    "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F593177.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "recipeID": 90,
+    "name": "Banana Crumb Muffins",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "1 1/2 cups" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "baking powder", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "banana", "preparation": "3 ripe, mashed" },
+      { "name": "sugar", "preparation": "3/4 cup" },
+      { "name": "egg", "preparation": "1 large, beaten" },
+      { "name": "butter", "preparation": "1/3 cup, melted" },
+      { "name": "brown sugar", "preparation": "1/3 cup" },
+      { "name": "all-purpose flour", "preparation": "2 tablespoons" },
+      { "name": "ground cinnamon", "preparation": "1/8 teaspoon" },
+      { "name": "butter", "preparation": "1 tablespoon" }
+    ],
+    "directions": [
+      "Preheat oven to 375 degrees F (190 degrees C) and grease muffin cups",
+      "In a bowl, mix flour, baking soda, baking powder, and salt",
+      "In another bowl, beat bananas, sugar, egg, and melted butter together",
+      "Stir banana mixture into flour mixture until just moistened",
+      "Spoon batter into muffin cups",
+      "Mix brown sugar, flour, cinnamon, and butter until crumbly and sprinkle over muffins",
+      "Bake for 18 to 20 minutes or until a toothpick inserted into center comes out clean"
+    ],
+    "sourceURL": "",
+    "timeCook": "35 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/HsTBBVMWje8Ky8dMblz3XnK_gtY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/17652-banana-crumb-muffins-DDMFS-4x3-Beauty-5926fa976cd34a78a10dd45e48f5735c.jpg"
+  },
+  {
+    "recipeID": 91,
+    "name": "Banana Snickerdoodle Bars",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "2 cups" },
+      { "name": "baking powder", "preparation": "1 teaspoon" },
+      { "name": "ground cinnamon", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "butter", "preparation": "1 cup, softened" },
+      { "name": "sugar", "preparation": "1 cup" },
+      { "name": "brown sugar", "preparation": "1/2 cup" },
+      { "name": "eggs", "preparation": "2 large" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" },
+      { "name": "banana", "preparation": "2 ripe, mashed" }
+    ],
+    "directions": [
+      "Preheat oven to 350 degrees F and grease a baking dish",
+      "Whisk together flour, baking powder, cinnamon, and salt",
+      "Cream butter, white sugar, and brown sugar until fluffy",
+      "Add eggs, vanilla, and mashed bananas to the creamed mixture",
+      "Gradually add dry ingredients and mix until just combined",
+      "Pour batter into the prepared dish and bake for 30 minutes",
+      "Let cool before cutting into bars"
+    ],
+    "sourceURL": "",
+    "timeCook": "30 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/sUsagStEOkDW0brFsCXJN4wMn2Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BananaSnickerdoodleBarsKim-0507df9abbd84200ae0d8eba6555da36.jpg"
+  },
+  {
+    "recipeID": 92,
+    "name": "Quick Banana Milkshake (Ice Cream Free)",
+    "ingredients": [
+      { "name": "banana", "preparation": "1 ripe" },
+      { "name": "milk", "preparation": "1 cup" },
+      { "name": "ice", "preparation": "3 ice cubes" },
+      { "name": "white sugar", "preparation": "1 tablespoon" },
+      { "name": "ground cinnamon", "preparation": "1 pinch" }
+    ],
+    "directions": [
+      "Combine banana, milk, ice, sugar, and cinnamon in a blender",
+      "Blend until smooth and frothy",
+      "Pour into glasses and serve immediately"
+    ],
+    "sourceURL": "",
+    "timeCook": "5 mins",
+    "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F10%2F31%2F231180-Quick-Banana-Milkshake-4x3-0412.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "recipeID": 93,
+    "name": "Banana Oat Bars",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "1 1/2 cups" },
+      { "name": "rolled oats", "preparation": "1 cup" },
+      { "name": "sugar", "preparation": "3/4 cup" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "butter", "preparation": "1/2 cup, softened" },
+      { "name": "banana", "preparation": "2 ripe, mashed" },
+      { "name": "eggs", "preparation": "2 large" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" }
+    ],
+    "directions": [
+      "Preheat the oven to 350 degrees F and grease a baking dish",
+      "Mix together oats, sugar, baking powder, cinnamon, baking soda, and raisins. In a separate bowl mix together bananas, milk, egg whites, and vanilla. Beat all together",
+      "Spread batter evenly into the prepared dish",
+      "Bake for 30 minutes until golden brown, then cool before cutting into bars"
+    ],
+    "sourceURL": "",
+    "timeCook": "45 mins",
+    "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F290165.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
   }
 ]
