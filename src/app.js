@@ -7,25 +7,34 @@ const favicon = require("express-favicon");
 
 const logger = require("morgan");
 
-const mainRouter = require('./routes/mainRouter.js');
-
-const cookieParser = require('cookie-parser');
+const mainRouter = require("./routes/mainRouter.js");
 
 const cookieParser = require("cookie-parser");
+
+// const cookieParser = require("cookie-parser");
 /* ============================================================= */
 // middleware
-app.use(cors());
+// app.use(cors());
+
+app.use(
+  cors({
+    origin: "http://localhost:5173",
+    credentials: true,
+  })
+);
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(logger("dev"));
 app.use(express.static("public"));
 app.use(favicon(__dirname + "/public/favicon.ico"));
-app.use(cookieParser());
 
 app.use(cookieParser());
+
+// app.use(cookieParser());
 /* ============================================================= */
 // routes
-app.use('/api/v1', mainRouter);
+app.use("/api/v1", mainRouter);
 
 /* ============================================================= */
 module.exports = app;

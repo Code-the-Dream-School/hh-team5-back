@@ -23,7 +23,7 @@ const {
   deleteFavorite,
 } = require("../controllers/favoriteController.js");
 
-const authenticate = require("../middleware/authenticate");
+// const authenticate = require("../middleware/authenticate");
 /* ============================================================= */
 router.get("/", authenticate, (req, res) => res.status(200).json({ 
     message: 'User is logged in.', user: req.user 
