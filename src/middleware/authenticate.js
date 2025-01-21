@@ -1,4 +1,4 @@
-const jwt = require('jsonwebtoken');
+const jwt = require("jsonwebtoken");
 
 const authenticate = (req, res, next) => {
     const cookies = req.cookies.jwt;
@@ -16,7 +16,9 @@ const authenticate = (req, res, next) => {
     // Verify the token
     jwt.verify(token, process.env.ACCESS_TOKEN_SECRET, (err, decoded) => {
         if (err) return res.sendStatus(403); // Forbidden - invalid or expired token
+
         req.user = decoded.username; // Add the decoded username to the request object
+
         next(); // Proceed to the next middleware or route handler
     });
 };
