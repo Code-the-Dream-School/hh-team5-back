@@ -28,10 +28,9 @@ app.use(logger("dev"));
 app.use(express.static("public"));
 app.use(favicon(__dirname + "/public/favicon.ico"));
 
-app.use(cookieParser());
 /* ============================================================= */
 // routes
-app.use('/api/v1', mainRouter);
+app.use("/api/v1", mainRouter);
 
 /* ============================================================= */
 module.exports = app;

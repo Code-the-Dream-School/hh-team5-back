@@ -30,8 +30,9 @@
       "Mix ground beef, bread crumbs, onion, water, and egg together in a large bowl. Form into small meatballs and arrange on a nonstick baking sheet. Bake in the preheated oven for 20 to 25 minutes, turning once",
       "Stir cranberry sauce, chili sauce, brown sugar, and lemon juice together in a large saucepan over low heat until smooth. Add meatballs; simmer for 1 hour before serving"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/15206/cocktail-meatballs/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/15206/cocktail-meatballs/",
+    "timeCook": "100 mins",
+    "recipeImage": "https://i.ibb.co/zmfTfkw/1-cocktail-meatballs.png"
   },
   {
     "recipeID": 2,
@@ -77,8 +78,9 @@
       "Place the tops of the rolls onto the sandwiches. Pour mustard mixture evenly over the rolls",
       "Bake in the preheated oven until the rolls are lightly browned and the cheese has melted, about 20 minutes. Slice into individual rolls through the ham and cheese layers to serve"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/216756/baked-ham-and-cheese-party-sandwiches/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/216756/baked-ham-and-cheese-party-sandwiches/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://i.ibb.co/s6DHQMq/2-baked-ham-and-cheese-sliders.png"
   },
   {
     "recipeID": 3,
@@ -127,8 +129,9 @@
       "In a small bowl, combine the salmon, Sriracha®, mayonnaise, and rice vinegar",
       "In a bowl place cooked rice and top it with the salmon mixture, sliced avocado, and chopped cucumber mixture. Sprinkle with sesame seeds. Top with extra Sriracha and green onions if desired"
     ],
-    "recipeImage": "https://www.allrecipes.com/spicy-canned-salmon-salad-rice-bowl-recipe-7558696",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/spicy-canned-salmon-salad-rice-bowl-recipe-7558696",
+    "timeCook": "15 mins",
+    "recipeImage": "https://i.ibb.co/j6wYTyc/3-spicy-canned-salmon-salad-rice-bowl.png"
   },
   {
     "recipeID": 4,
@@ -165,8 +168,9 @@
       "Place chopped eggs in a bowl; stir in mayonnaise, green onion, and mustard. Season with paprika, salt, and pepper",
       "Stir and serve on your favorite bread, crackers, or salad greens"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://i.ibb.co/8KyPYWx/4-delicious-egg-salad-for-sandwiches.png"
   },
   {
     "recipeID": 5,
@@ -231,12 +235,13 @@
       "Pour milk mixture into the soup, whisking to combine; bring to a boil and simmer for about 2 minutes. Add Cheddar cheese and stir until melted. Season with basil, parsley, salt, and pepper",
       "Remove from heat. Ladle soup into bowls and sprinkle with bacon and additional shredded Cheddar cheese"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/286342/loaded-bacon-cheeseburger-potato-soup/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/286342/loaded-bacon-cheeseburger-potato-soup/",
+    "timeCook": "55 mins",
+    "recipeImage": "https://i.ibb.co/pfxZTqS/5-bacon-cheeseburger-soup.png"
   },
   {
     "recipeID": 6,
-    "name": "Potato Soup",
+    "name": "Absolutely Ultimate Potato Soup",
     "ingredients": [
       {
         "name": "bacon",
@@ -276,8 +281,9 @@
       "Transfer about 1/2 of the soup to a blender and purée. Return to the Dutch oven. Adjust seasonings to taste",
       "Serve hot and enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/13218/absolutely-ultimate-potato-soup/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/13218/absolutely-ultimate-potato-soup/",
+    "timeCook": "45 mins",
+    "recipeImage": "https://i.ibb.co/0KMMtzH/6-absolutely-ultimate-potato-soup.png"
   },
   {
     "recipeID": 7,
@@ -316,12 +322,13 @@
       "Season with sugar and salt to taste",
       "Serve hot and enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://i.ibb.co/9GwW1nw/7-garden-fresh-tomato-soup.png"
   },
   {
     "recipeID": 8,
-    "name": "Broccoli Soup",
+    "name": "Cream Of Broccoli Soup",
     "ingredients": [
       {
         "name": "butter",
@@ -361,8 +368,9 @@
       "Melt 3 tablespoons butter in a small saucepan over medium to medium-low heat; stir in flour and add milk. Stir until thick and bubbly, and add to soup. Season with pepper and serve",
       "Serve hot and enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/13313/best-cream-of-broccoli-soup/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://i.ibb.co/B4htsft/8-cream-of-broccoli-soup.png"
   },
   {
     "recipeID": 9,
@@ -409,8 +417,9 @@
       "Bake in the preheated oven until cheese is melted, 20 to 30 minutes",
       "Remove foil and bake until cheese starts to turn golden brown, 10 to 20 minutes. Enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/8355257/meatball-pasta-bake/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/8355257/meatball-pasta-bake/",
+    "timeCook": "60 mins",
+    "recipeImage": "https://i.ibb.co/YXyMHLX/9-meatball-pasta-bake.jpg"
   },
   {
     "recipeID": 10,
@@ -486,8 +495,9 @@
       "Broil until cheese has started to turn golden brown, 3 to 4 minutes. Sprinkle with parsley and serve",
       "Enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/195045/the-best-spaghetti-casserole/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/195045/the-best-spaghetti-casserole/",
+    "timeCook": "60 mins",
+    "recipeImage": "https://i.ibb.co/4W75DkJ/10-spaghetti-casserole.png"
   },
   {
     "recipeID": 11,
@@ -559,8 +569,9 @@
       "Scatter surface evenly with fried onions, and press them lightly into the surface with your fingertips",
       "Bake in the preheated oven until mac and cheese is hot, and the top is browned, about 30 minutes. Let rest for 10 minutes before serving"
     ],
-    "recipeImage": "https://www.allrecipes.com/green-bean-mac-and-cheese-recipe-8753390",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/green-bean-mac-and-cheese-recipe-8753390",
+    "timeCook": "70 mins",
+    "recipeImage": "https://i.ibb.co/tbWgmQn/11-green-bean-mac-and-cheese.png"
   },
   {
     "recipeID": 12,
@@ -619,12 +630,13 @@
       "Remove and top with 1/4 cup of the reserved bacon, remaining 1/4 cup Parmigiano-Reggiano and parsley",
       "Serve immediately, garnishing each serving with more reserved bacon, as desired"
     ],
-    "recipeImage": "https://www.allrecipes.com/green-bean-mac-and-cheese-recipe-8753390",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/creamy-bacon-pasta-bake-recipe-8736946",
+    "timeCook": "70 mins",
+    "recipeImage": "https://i.ibb.co/RDJXZNz/12-creamy-bacon-pasta-bake.png"
   },
   {
     "recipeID": 13,
-    "name": "Hamburger Stroganoff",
+    "name": "Simple Hamburger Stroganoff",
     "ingredients": [
       {
         "name": "egg noodles",
@@ -664,12 +676,13 @@
       "Meanwhile, cook ground beef in a large skillet over medium-high heat, stirring occasionally, until browned and crumbly, 5 to 7 minutes; drain and discard grease. Stir in cream cheese, mushrooms with liquid, and gravy mix; cook and stir over medium heat until cream cheese melts, 2 to 3 minutes. Add condensed soup, sour cream, and milk; cook, stirring occasionally, until smooth and creamy, 3 to 5 minutes",
       "Drain egg noodles; stir into the beef mixture. Cook until heated through, 2 to 3 minutes"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/23260/simple-hamburger-stroganoff/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/23260/simple-hamburger-stroganoff/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://i.ibb.co/kgVbjrN/13-simple-hamburger-stroganoff.png"
   },
   {
     "recipeID": 14,
-    "name": "Korean Beef Bowl",
+    "name": "Easy Korean Beef Bowl",
     "ingredients": [
       {
         "name": "ground beef",
@@ -720,8 +733,9 @@
       "Add 1/2 of chopped green onions",
       "Serve over hot cooked rice; garnish with sesame seeds and remaining green onions"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/",
+    "timeCook": "25 mins",
+    "recipeImage": "https://i.ibb.co/1TvVx6z/14-easy-korean-ground-beef-bowl.png"
   },
   {
     "recipeID": 15,
@@ -786,8 +800,9 @@
       "While rice is cooking, place tuna into a large mixing bowl and break up with your hands or a fork. Toss in red bell pepper, jalapeno, 1/4 cup green onions, rice vinegar, lemon juice, soy sauce, Sriracha, and sesame oil. Mix with a fork until thoroughly combined. Turn off heat and let rice sit, covered, for 10 minutes",
       "Fluff rice with a fork to separate the grains and break up any large clumps; transfer into the mixing bowl. Mix thoroughly with a spoon until all the ingredients are evenly incorporated. Taste and adjust seasoning if needed. Serve warm, at room temperature, or cold like a rice salad, topped with red pepper flakes and 1 teaspoon green onion"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/278876/spicy-tuna-rice-bowl/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/278876/spicy-tuna-rice-bowl/",
+    "timeCook": "40 mins",
+    "recipeImage": "https://i.ibb.co/tM20RwF/15-spicy-tuna-rice-bowl.png"
   },
   {
     "recipeID": 16,
@@ -859,8 +874,9 @@
       "Combine brown sugar, soy sauce, water, Asian pear, garlic, ginger, red pepper flakes, and black pepper in a food processor. Blend until combined but still slightly chunky. Pour mixture into the skillet with the beef and cook over medium heat until most of the liquid evaporates, 7 to 9 minutes",
       "Place 1/4 the cooked brown rice in the bottom of an individual serving bowl. Top with a portion of beef mixture, lettuce, cucumber, red bell pepper, and sesame seeds. Repeat with remaining rice, beef, and toppings"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/268055/korean-bulgogi-bowl/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/268055/korean-bulgogi-bowl/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://i.ibb.co/ynBGg2v/16-korean-bulgogi-bowl.png"
   },
   {
     "recipeID": 17,
@@ -906,8 +922,9 @@
       "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again",
       "Serve hot and enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/",
-    "timeCook": "20 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://i.ibb.co/qBDySyk/17-easy-fried-rice.png"
   },
   {
     "recipeID": 18,
@@ -950,8 +967,9 @@
       "Reduce heat to low, cover, and simmer for 20 to 25 minutes. Fluff rice with a fork",
       "Serve and enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/27072/mexican-rice-ii/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/27072/mexican-rice-ii/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://i.ibb.co/QQTNkKY/18-mexican-rice.png"
   },
   {
     "recipeID": 19,
@@ -992,8 +1010,9 @@
       "Just before serving, add cilantro, lime juice, and lime zest",
       "Enjoy!"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://i.ibb.co/b664Vb6/19-lime-cilantro-rice.png"
   },
   {
     "recipeID": 20,
@@ -1061,8 +1080,9 @@
       "Stir in turkey, wild rice, almonds, salt, and pepper; simmer until heated through, about 5 minutes",
       "Stir in lemon juice and half-and-half; bring soup almost to a boil. Serve immediately"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/212664/turkey-wild-rice-soup-ii/",
-    "timeCook": "40 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/212664/turkey-wild-rice-soup-ii/",
+    "timeCook": "40 mins",
+    "recipeImage": "https://i.ibb.co/2F0mNqs/20-turkey-wild-rice-soup.png"
   },
   {
     "recipeID": 21,
@@ -1094,12 +1114,13 @@
       "Remove weight, plate, and paper towels. Cut tofu into 3/4-inch cubes. Place flour in a bowl and lightly coat tofu with flour",
       "Heat oil in a heavy pot and fry tofu until golden-brown, 4 to 6 minutes. Fry in batches if necessary so as not to overcrowd the pot. Place fried tofu in a serving dish and pour sauce on top. Sprinkle with green onions"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/263693/japanese-agedashi-tofu/",
-    "timeCook": "30 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/263693/japanese-agedashi-tofu/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://i.ibb.co/bvWWZ3Z/21-japanese-agedashi-tofu.png"
   },
   {
     "recipeID": 22,
-    "name": "Fried Rice",
+    "name": "Quick Pork Fried Rice",
     "ingredients": [
       {
         "name": "baby carrot",
@@ -1132,14 +1153,15 @@
       }
     ],
     "directions": [
-      "Assemble ingredients",
-      "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander",
-      "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables",
-      "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again",
-      "Serve hot and enjoy"
+      "Gather the ingredients",
+      "Heat 2 teaspoons vegetable oil in a skillet over medium heat; cook and stir mushrooms until liquid has evaporated, and mushrooms are browned, about 15 minutes. Set mushrooms aside",
+      "Fluff cooked rice with a fork and stir in 1 tablespoon vegetable oil to separate the grains. Set aside",
+      "Heat remaining 3 tablespoons vegetable oil in a large skillet or wok over medium heat. Cook and stir pork, garlic, and ginger until fragrant, about 1 minute. Add celery, onion, and carrot. Cook and stir until vegetables begin to soften, 3 to 4 minutes. Stir in bell pepper and cooked mushrooms just until combined",
+      "Add in cooked rice, lightly tossing until rice is heated through and thoroughly combined with pork and vegetables. Stir in soy sauce, remove from heat, and sprinkle green onions over the top"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/",
-    "timeCook": "20 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/228917/quick-pork-fried-rice/",
+    "timeCook": "45 mins",
+    "recipeImage": "https://i.ibb.co/tsHD99D/22-quick-pork-fried-rice.png"
   },
   {
     "recipeID": 23,
@@ -1190,8 +1212,9 @@
       "Fill muffin cups 3/4 full. Poke almonds into tops of unbaked muffins. Sprinkle muffins with sugar",
       "Bake for 20 to 25 minutes, or until toothpick inserted in center comes out clean"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/22375/chocolate-chocolate-chip-nut-muffins/",
-    "timeCook": "40 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/22375/chocolate-chocolate-chip-nut-muffins/",
+    "timeCook": "40 mins",
+    "recipeImage": "https://i.ibb.co/19RCvYk/23-chocolate-chip-nut-muffins.png"
   },
   {
     "recipeID": 24,
@@ -1253,8 +1276,9 @@
       "Dissolve cornstarch into water, then mix into the sauce. Cook for 5 to 10 minutes, or until thickened",
       "Serve over rice with naan"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/45957/chicken-makhani-indian-butter-chicken/",
-    "timeCook": "35 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/45957/chicken-makhani-indian-butter-chicken/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://i.ibb.co/BPqy692/24-chicken-makhani-indian-butter-chicken.png"
   },
   {
     "recipeID": 25,
@@ -1281,8 +1305,9 @@
       "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again",
       "Serve hot and enjoy"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/11887/pesto-pasta/",
-    "timeCook": "15 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/11887/pesto-pasta/",
+    "timeCook": "15 mins",
+    "recipeImage": "https://i.ibb.co/BjLNkV1/25-pesto-pasta.png"
   },
   {
     "recipeID": 26,
@@ -1331,8 +1356,9 @@
       "Pour 1/2 cup melted butter in a 9x13-inch baking dish; turn mushroom caps in butter to coat. Fill mushroom caps with the crab mixture and sprinkle with remaining 1/2 cup Monterey Jack cheese. Pour white wine into baking dish",
       "Bake in preheated oven until cheese is melted and lightly brown, 15 to 20 minutes"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/229826/perfect-crab-stuffed-mushrooms/",
-    "timeCook": "40 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/229826/perfect-crab-stuffed-mushrooms/",
+    "timeCook": "40 mins",
+    "recipeImage": "https://i.ibb.co/y4gpZ9B/26-crab-stuffed-mushrooms.png"
   },
   {
     "recipeID": 27,
@@ -1365,8 +1391,9 @@
       "Whisk together mayonnaise, sugar, milk, buttermilk, vinegar, salt, and pepper in a second bowl until smooth",
       "Pour dressing over slaw; stir well and chill at least 2 hours or up to overnight"
     ],
-    "recipeImage": "https://www.allrecipes.com/recipe/8536918/copycat-kfc-coleslaw/",
-    "timeCook": "2 hrs 15 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/8536918/copycat-kfc-coleslaw/",
+    "timeCook": "135 mins",
+    "recipeImage": "https://i.ibb.co/kS0zsbb/27-copycat-kfc-coleslaw.png"
   },
   {
     "recipeID": 28,
@@ -1379,7 +1406,7 @@
       { "name": "apple", "preparation": "1 medium apple, sliced" },
       { "name": "celery", "preparation": "2 tablespoons chopped celery" },
       {
-        "name": "pecans",
+        "name": "pecan",
         "preparation": "2 tablespoons toasted PLANTERS Pecans, chopped"
       },
       {
@@ -1388,7 +1415,2144 @@
       }
     ],
     "directions": ["Toss ingredients with dressing in a large bowl."],
-    "recipeImage": "https://www.allrecipes.com/recipe/129820/apple-spinach-salad/",
-    "timeCook": "10 mins"
+    "sourceURL": "https://www.allrecipes.com/recipe/129820/apple-spinach-salad/",
+    "timeCook": "10 mins",
+    "recipeImage": "https://i.ibb.co/4VFSMDQ/28-apple-spinach-salad.png"
+  },
+  {
+    "recipeID": 29,
+    "name": "Chicken Tortilla Soup",
+    "ingredients": [
+      {
+        "name": "whole chicken",
+        "preparation": "1 (4 1/2 pound) whole chicken"
+      },
+      {
+        "name": "white onions",
+        "preparation": "3 white onions, halved, divided"
+      },
+      {
+        "name": "cilantro",
+        "preparation": "1 bunch cilantro, rinsed well"
+      },
+      {
+        "name": "bay leave",
+        "preparation": "2 bay leaves"
+      },
+      {
+        "name": "peppercorn",
+        "preparation": "1/2 teaspoon whole black peppercorns"
+      },
+      {
+        "name": "oregano",
+        "preparation": "1 teaspoon Mexican oregano"
+      },
+      {
+        "name": "pepper pod",
+        "preparation": "2 dried chili pepper pods, seeded (optional)"
+      },
+      {
+        "name": "water",
+        "preparation": "3 quarts water"
+      }
+    ],
+    "directions": [
+      "Combine chicken, 1 onion, stems from the cilantro bunch, bay leaves, oregano, peppercorns, dried chili pods, and 3 quarts of water in a large soup pot set over medium-high heat. Bring to simmer, lower heat to medium-low, and simmer for 1 hour",
+      "Meanwhile, make the tortilla strips: Preheat the oven to 350 degrees F (180 degrees C). Line a baking sheet with a silicone mat or parchment paper",
+      "Cut tortillas in half, and then cut crosswise into 1/4-inch strips. Transfer tortilla strips to the prepared baking sheet and drizzle with oil. Add salt and toss well to coat, then spread strips out as evenly as possible",
+      "Bake in the preheated oven until golden brown and crispy, tossing once or twice during the cooking time, about 30 minutes. Set aside",
+      "Carefully remove chicken to a bowl. Reduce heat on broth to low",
+      "Let chicken rest until cool enough to pull off the meat. Shred chicken and refrigerate until needed",
+      "Add bones, skin, and all the scraps back to the pot of broth, and simmer on low heat for about 4 hours total. If broth reduces too much, just add a splash of water",
+      "Meanwhile, after about 2 hours, make the charred vegetable salsa: Preheat on the oven's broiler for high heat and set a rack about 8 inches below the heating element. Line a baking sheet with foil and oil lightly; place remaining 2 onions, tomatoes, sweet red pepper, and jalapeno pepper on the prepared baking sheet",
+      "Broil vegetables until charred, 7 to 10 minutes. Add charred vegetables to the jar of a blender with garlic cloves, chipotle pepper, and 1 cup water, and blend until smooth",
+      "Pour pureed salsa into the pot, and raise heat to medium-low. Simmer broth for another 2 hours, stirring occasionally. Pass soup through a fine mesh strainer into a separate pot, squeezing the chicken to get all those nice juices; discard bones and skin in strainer. Season soup to taste with salt",
+      "Add cumin, shredded chicken, and juice from 1 lime. Simmer 15 to 30 minutes, stirring occasionally. Taste for seasoning, and serve with crispy tortilla strips. Garnish with sour cream, avocado, chopped cilantro, grated or crumbled Mexican cheese, additional lime juice, and a sprinkle of cayenne, if desired"
+    ],
+    "sourceURL": "https://www.allrecipes.com/chef-john-s-chicken-tortilla-soup-recipe-8378788",
+    "timeCook": "375 mins",
+    "recipeImage": "https://i.ibb.co/DkGCx8m/29-chicken-tortilla-soup.png"
+  },
+  {
+    "recipeID": 30,
+    "name": "Instant Pot Hamburger Soup",
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "preparation": "1 1/2 pounds ground beef"
+      },
+      {
+        "name": "onion",
+        "preparation": "1 medium onion, finely chopped"
+      },
+      {
+        "name": "beef consomme",
+        "preparation": "3 (14.5 ounce) cans beef consomme"
+      },
+      {
+        "name": "diced tomatoes",
+        "preparation": "1 (28 ounce) can diced tomatoes"
+      },
+      {
+        "name": "water",
+        "preparation": "2 cups water"
+      },
+      {
+        "name": "tomato soup",
+        "preparation": "1 (10.75 ounce) can condensed tomato soup"
+      },
+      {
+        "name": "carrot",
+        "preparation": "4 carrots, finely chopped"
+      },
+      {
+        "name": "celery",
+        "preparation": "3 stalks celery, finely chopped"
+      },
+      {
+        "name": "pearl ",
+        "preparation": "4 tablespoons pearl barley"
+      },
+      {
+        "name": "dried thyme",
+        "preparation": "1/2 teaspoon dried thyme"
+      },
+      {
+        "name": "bay leaf",
+        "preparation": "1 bay leaf"
+      }
+    ],
+    "directions": [
+      "Turn on a multi-functional pressure cooker (such as Instant Pot®) and select Saute function. Cook and stir beef and onion until browned, 5 to 10 minutes. Pour in beef consomme, tomatoes, water, and tomato soup. Add carrots, celery, barley, thyme, and bay leaf",
+      "Close and lock the lid. Select Soup function; set timer for 30 minutes. Allow 10 to 15 minutes for pressure to build",
+      "Release pressure using the natural-release method according to manufacturer's instructions, about 10 minutes"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/268565/instant-pot-hamburger-soup/",
+    "timeCook": "70 mins",
+    "recipeImage": "https://i.ibb.co/7bk3fQG/30-instant-pot-hamburger-soup.jpg"
+  },
+  {
+    "recipeID": 31,
+    "name": "Simple French Onion Soup",
+    "ingredients": [
+      {
+        "name": "butter",
+        "preparation": "1/2 cup unsalted butter"
+      },
+      {
+        "name": "olive oil",
+        "preparation": "2 tablespoons olive oil"
+      },
+      {
+        "name": "onion",
+        "preparation": "4 cups sliced onions"
+      },
+      {
+        "name": "beef broth",
+        "preparation": "5 cups beef broth"
+      },
+      {
+        "name": "sherry",
+        "preparation": "2 tablespoons dry sherry"
+      },
+      {
+        "name": "thyme",
+        "preparation": "1 teaspoon dried thyme"
+      },
+      {
+        "name": "salt and pepper",
+        "preparation": "1 pinch salt and pepper to taste"
+      },
+      {
+        "name": "bread",
+        "preparation": "4 slices French bread"
+      },
+      {
+        "name": "sliced cheese",
+        "preparation": "4 slices provolone cheese"
+      },
+      {
+        "name": "diced cheese",
+        "preparation": "2 slices Swiss cheese, diced"
+      },
+      {
+        "name": "grated cheese",
+        "preparation": "1/4 cup grated Parmesan cheese"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Melt butter with olive oil in an 8-quart stock pot over medium heat. Add onions to butter and continually stir until tender and translucent. Do not brown the onions",
+      "Add beef broth, sherry, and thyme. Season with salt and pepper. Let simmer for 30 minutes. Meanwhile, preheat the oven's broiler",
+      "Ladle soup into oven-safe serving bowls and place one slice of bread on top of each (bread may be broken into pieces if you prefer). Layer each slice of bread with a slice of provolone, 1/2 slice diced Swiss and 1 tablespoon Parmesan cheese",
+      "Place bowls on a cookie sheet and broil in the preheated oven until cheese bubbles and browns slightly, 2 to 3 minutes",
+      "Serve hot and enjoy!"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/13309/rich-and-simple-french-onion-soup/",
+    "timeCook": "55 mins",
+    "recipeImage": "https://i.ibb.co/vHnMh4K/31-simple-french-onion-soup.png"
+  },
+  {
+    "recipeID": 32,
+    "name": "Sweet and Sour Pork",
+    "ingredients": [
+      {
+        "name": "soy sauce",
+        "preparation": "1 teaspoon soy sauce"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "white sugar",
+        "preparation": "1/4 teaspoon white sugar"
+      },
+      {
+        "name": "egg",
+        "preparation": "1 egg white"
+      },
+      {
+        "name": "green onion",
+        "preparation": "2 green onions, chopped"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Place cubed pork in a medium bowl and season with soy sauce, salt, and sugar for marinade",
+      "Add egg white and green onions and mix until well-combined. Cover and place in the refrigerator for at least 1 hour",
+      "Heat 1 quart oil to 365 degrees F (185 degrees C) in a large, heavy saucepan or deep fryer. Coat pork with cornstarch",
+      "Fry in hot oil until evenly browned, about 10 minutes. Drain on paper towels and set aside",
+      "Heat oil for vegetables in a wok over medium heat. Stir in celery, bell pepper, and onion; cook until tender, about 5 minutes. Season with pinch of sugar and salt. Remove from heat and set aside",
+      "Mix 1 cup water, 3/4 cup sugar, apple cider vinegar, ketchup, soy sauce, and salt in a large saucepan; bring to a boil over high heat",
+      "Stir in cooked pork, celery mixture, and pineapple chunks with juice",
+      "Return to a boil, then mix in remaining 1/4 cup water and cornstarch. Cook until thickened and warmed through, about 2 minutes"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/31144/sweet-and-sour-pork-iii/",
+    "timeCook": "120 mins",
+    "recipeImage": "https://i.ibb.co/ggZjMGm/32-sweet-and-sour-pork.png"
+  },
+  {
+    "recipeID": 33,
+    "name": "Sweet and Sour Chicken",
+    "ingredients": [
+      {
+        "name": "water",
+        "preparation": "1 3/4 cups water, divided"
+      },
+      {
+        "name": "pineapple",
+        "preparation": "1 (8 ounce) can pineapple chunks, drained (juice reserved)"
+      },
+      {
+        "name": "white sugar",
+        "preparation": "3/4 cup white sugar"
+      },
+      {
+        "name": "white vinegar",
+        "preparation": "1/2 cup distilled white vinegar"
+      },
+      {
+        "name": "orange food color",
+        "preparation": "2 drops orange food color"
+      },
+      {
+        "name": "cornstarch",
+        "preparation": "1/4 cup cornstarch"
+      },
+      {
+        "name": "flour",
+        "preparation": "2 1/4 cups self-rising flour"
+      },
+      {
+        "name": "vegetable oil",
+        "preparation": "2 tablespoons vegetable oil"
+      },
+      {
+        "name": "cornstarch",
+        "preparation": "2 tablespoons cornstarch"
+      },
+      {
+        "name": "egg",
+        "preparation": "1 egg"
+      },
+      {
+        "name": "salt",
+        "preparation": "1/2 teaspoon salt"
+      },
+      {
+        "name": "white pepper",
+        "preparation": "1/4 teaspoon ground white pepper"
+      },
+      {
+        "name": "water",
+        "preparation": "1 1/2 cups water"
+      },
+      {
+        "name": "boneless chicken",
+        "preparation": "8 skinless, boneless chicken breast halves - cut into 1-inch cubes"
+      },
+      {
+        "name": "vegetable oil",
+        "preparation": "1 quart vegetable oil for frying"
+      },
+      {
+        "name": "bell pepper",
+        "preparation": "2 green bell pepper, cut into 1-inch pieces"
+      }
+    ],
+    "directions": [
+      "Combine 1 ½ cups of water, reserved pineapple juice, sugar, vinegar, and orange food coloring in a medium saucepan. Bring to a boil over medium heat; set aside",
+      "Mix 1/4 cup cornstarch and 1/4 cup water together in a small bowl until smooth; pour into the sauce, stirring continuously, until slightly thickened",
+      "Place flour, 2 tablespoons oil, 2 tablespoons cornstarch, egg, salt, and white pepper in a large bowl; gradually whisk in 1 1/2 cups water to make a thick batter",
+      "Add chicken pieces; stir until well coated",
+      "Heat oil in a large, deep skillet or wok to 360 degrees F (180 degrees C). Fry chicken pieces in preheated oil until golden, about 10 minutes; remove and drain on paper towels",
+      "Layer green peppers, pineapple chunks, and cooked chicken pieces on a platter; pour hot sweet and sour sauce over top",
+      "Serve hot and enjoy!"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/8536/sweet-and-sour-chicken-i/",
+    "timeCook": "50 mins",
+    "recipeImage": "https://i.ibb.co/CP6yHPK/33-sweet-and-sour-chicken.png"
+  },
+  {
+    "recipeID": 34,
+    "name": "Crispy Sweet and Sour Chicken",
+    "ingredients": [
+      {
+        "name": "egg",
+        "preparation": "3 large egg yolks"
+      },
+      {
+        "name": "soy sauce",
+        "preparation": "1 tablespoon soy sauce"
+      },
+      {
+        "name": "cornstarch",
+        "preparation": "1 tablespoon cornstarch"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "ground black pepper to taste"
+      },
+      {
+        "name": "boneless chicken",
+        "preparation": "3 pounds skinless, boneless chicken breast, cut into bite-sized pieces"
+      }
+    ],
+    "directions": [
+      "Whisk egg yolks, soy sauce, cornstarch, salt, and pepper for marinade together in a bowl and pour into a resealable plastic bag. Add chicken, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 20 minutes",
+      "Beat egg whites for coating in a bowl until foamy. Add water, then cornstarch, then flour, mixing completely after each addition",
+      "Combine hot water, sugar, rice wine, vinegar, cornstarch, soy sauce, bouillon granules, and salt for glaze in a bowl",
+      "Remove chicken from the refrigerator. Dip each piece in coating",
+      "Heat vegetable oil in a wok over medium-high heat until hot. Add chicken and cook in small batches until crispy, about 5 minutes per batch. Remove chicken to a plate and drain oil from the wok",
+      "Add bell pepper and garlic to the wok and stir-fry until tender, about 3 minutes. Remove from the wok onto a separate dish",
+      "Add pineapple chunks to the wok. Stir the reserved glaze and pour over pineapple. Simmer until sauce thickens, 2 to 3 minutes",
+      "Add chicken and bell pepper mixture back to the wok; toss everything together. Drizzle sesame oil over top, stir, and sprinkle with sesame seeds"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/282323/crispy-sweet-and-sour-chicken/",
+    "timeCook": "80 mins",
+    "recipeImage": "https://i.ibb.co/1JYF5B6/34-crispy-sweet-and-sour-chicken.jpg"
+  },
+  {
+    "recipeID": 35,
+    "name": "Kale Sweet Potato Salad",
+    "ingredients": [
+      {
+        "name": "potato",
+        "preparation": "1 sweet potato"
+      },
+      {
+        "name": "onion",
+        "preparation": "1/2 red onion"
+      },
+      {
+        "name": "olive oil",
+        "preparation": "2 tablespoons olive oil"
+      },
+      {
+        "name": "salt and ground black pepper",
+        "preparation": "salt and freshly ground black pepper to taste"
+      },
+      {
+        "name": "bacon",
+        "preparation": "4 strips bacon"
+      },
+      {
+        "name": "kale",
+        "preparation": "1 bunch kale"
+      },
+      {
+        "name": "apple",
+        "preparation": "1 Granny Smith apple - cored and diced"
+      },
+      {
+        "name": "green onion",
+        "preparation": "2 green onions, sliced"
+      }
+    ],
+    "directions": [
+      "Preheat the oven to 400 degrees F (200 degrees C). Line a 12 x18-inch rimmed baking sheet with parchment paper",
+      "Peel and dice sweet potato into 3/4-inch pieces, about 2 cups, and place in a bowl. Dice onion into 3/4-inch pieces and add to sweet potatoes. Add olive oil; season with salt and pepper, and stir to combine. Spread vegetables in a single layer on the prepared baking sheet",
+      "Bake in the center of the preheated oven until sweet potatoes are fork tender, but not mushy, about 20 minutes. Remove from the oven and allow to cool",
+      "Meanwhile, cook bacon in a large skillet over medium heat until brown and crisp, 5 to 8 minutes, turning occasionally. Remove from heat, crumble, and set aside. Reserve bacon fat and allow to cool, but do not refrigerate",
+      "Remove tough stems from kale, rinse well, and place in a colander to drain. Lightly press kale with paper towels to assist with drying",
+      "Cut kale into bite-sized pieces and place in a large salad bowl. Add cooled sweet potatoes and onions, apple, and green onions",
+      "To make dressing, place reserved bacon fat, about 1/4 cup, in a pint jar with a well-fitting lid. If you don't have enough bacon fat, add enough oil to get to 1/4 cup. Add vinegar, mustard, honey, and salt and pepper, to taste. Attach the lid and shake vigorously to combine",
+      "Pour dressing over salad, and toss. Sprinkle crumbled bacon over salad, and garnish with sunflower seeds"
+    ],
+    "sourceURL": "https://www.allrecipes.com/kale-sweet-potato-salad-recipe-7569245",
+    "timeCook": "60 mins",
+    "recipeImage": "https://i.ibb.co/bNPYSY9/35-kale-sweet-potato-salad.png"
+  },
+  {
+    "recipeID": 36,
+    "name": "Kale Salad with Cranberries",
+    "ingredients": [
+      {
+        "name": "water",
+        "preparation": "1/2 cup water"
+      },
+      {
+        "name": "cranberry",
+        "preparation": "1/2 cup dried cranberries"
+      },
+      {
+        "name": "honey",
+        "preparation": "1 tablespoon honey"
+      },
+      {
+        "name": "kale",
+        "preparation": "16 ounces kale, stems removed and discarded, leaves torn into bite-sized pieces"
+      },
+      {
+        "name": "onion",
+        "preparation": "1 red onion, chopped"
+      },
+      {
+        "name": "olive oil",
+        "preparation": "3 tablespoons olive oil"
+      },
+      {
+        "name": "vinegar",
+        "preparation": "3 tablespoons balsamic vinegar"
+      },
+      {
+        "name": "garlic",
+        "preparation": "1 teaspoon minced garlic"
+      },
+      {
+        "name": "salt",
+        "preparation": "3/4 teaspoon salt"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "1/2 teaspoon ground black pepper"
+      },
+      {
+        "name": "cheese",
+        "preparation": "5 ounces feta cheese, crumbled"
+      },
+      {
+        "name": "walnut",
+        "preparation": "1/2 cup toasted walnuts, chopped"
+      }
+    ],
+    "directions": [
+      "Combine water and cranberries in a small saucepan and bring to a boil. Reduce heat and simmer until cranberries are soft and liquid is syrupy, 5 to 10 minutes. Stir in honey, remove from the heat, and allow to cool",
+      "Put kale and red onion in an 8-quart pot or a very large bowl",
+      "Whisk olive oil, balsamic vinegar, garlic, salt, and pepper together in a small bowl; pour over the kale and stir well. Add feta cheese, walnuts, and moist cranberries with their syrup; stir until well combined. Cover and place in the refrigerator to marinate, stirring occasionally, until kale has wilted and shrunken in size, 3 to 8 hours",
+      "To serve, transfer to a smaller serving bowl"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/278212/kale-salad-with-cranberries/",
+    "timeCook": "205 mins",
+    "recipeImage": "https://i.ibb.co/F53q33q/36-kale-salad-with-cranberries.png"
+  },
+  {
+    "recipeID": 37,
+    "name": "Kale Salad with Avocado",
+    "ingredients": [
+      {
+        "name": "kale",
+        "preparation": "2 bunches kale, stemmed and finely chopped"
+      },
+      {
+        "name": "lemon",
+        "preparation": "1 lemon, juiced"
+      },
+      {
+        "name": "avocado",
+        "preparation": "2 ripe avocados, mashed"
+      },
+      {
+        "name": "tomatoe",
+        "preparation": "1 pint grape tomatoes, quartered"
+      },
+      {
+        "name": "green onion",
+        "preparation": "1 bunch green onions, sliced"
+      },
+      {
+        "name": "olive oil",
+        "preparation": "2 tablespoons olive oil"
+      },
+      {
+        "name": "garlic",
+        "preparation": "6 cloves garlic, diced"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "pepper",
+        "preparation": "1/2 teaspoon cayenne pepper"
+      }
+    ],
+    "directions": [
+      "Combine kale and lemon juice in a bowl. Vigorously massage kale by squeezing handfuls for about 1 minute. Add avocados, tomatoes, and green onions",
+      "Mix together olive oil, garlic, salt, and cayenne pepper in a small bowl. Pour dressing over salad and mix well. Serve immediately"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/278228/kale-salad-with-avocado/",
+    "timeCook": "15 mins",
+    "recipeImage": "https://i.ibb.co/FX9tvTm/37-kale-salad-with-avocado.png"
+  },
+  {
+    "recipeID": 38,
+    "name": "Creamy Kale Salad",
+    "ingredients": [
+      {
+        "name": "kale",
+        "preparation": "4 cups chopped kale (ribs removed)"
+      },
+      {
+        "name": "onion",
+        "preparation": "1/4 cup chopped red onion"
+      },
+      {
+        "name": "raisin",
+        "preparation": "3 tablespoons raisins"
+      },
+      {
+        "name": "yogurt",
+        "preparation": "1/2 cup plain Greek-style yogurt"
+      },
+      {
+        "name": "mayonnaise",
+        "preparation": "1/4 cup mayonnaise"
+      },
+      {
+        "name": "sugar",
+        "preparation": "2 teaspoons sugar"
+      },
+      {
+        "name": "lemon",
+        "preparation": "1 lemon, zested and juiced"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "sunflower seed",
+        "preparation": "3 tablespoons sunflower seeds"
+      }
+    ],
+    "directions": [
+      "Mix kale, red onion, and raisins in a large bowl",
+      "Whisk yogurt, mayonnaise, sugar, lemon zest, and lemon juice together in a bowl; pour over the kale mixture and toss to coat. Refrigerate 2 hours to overnight. Sprinkle sunflower seeds over the salad and toss to serve"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/222323/creamy-kale-salad/",
+    "timeCook": "140 mins",
+    "recipeImage": "https://i.ibb.co/zQhfKt0/38-creamy-kale-salad.png"
+  },
+  {
+    "recipeID": 39,
+    "name": "Simple Garlic Shrimp",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "preparation": "1 1/2 tablespoons olive oil"
+      },
+      {
+        "name": "shrimp",
+        "preparation": "1 pound shrimp, peeled and deveined"
+      },
+      {
+        "name": "salt",
+        "preparation": "salt to taste"
+      },
+      {
+        "name": "garlic",
+        "preparation": "6 cloves garlic, finely minced"
+      },
+      {
+        "name": "pepper",
+        "preparation": "1/4 teaspoon red pepper flakes"
+      },
+      {
+        "name": "lemon",
+        "preparation": "3 tablespoons lemon juice"
+      },
+      {
+        "name": "caper brine",
+        "preparation": "1 tablespoon caper brine"
+      },
+      {
+        "name": "butter",
+        "preparation": "2 tablespoons cold butter, cut into 4 equal pieces, divided"
+      },
+      {
+        "name": "parsley",
+        "preparation": "1/3 cup chopped flat-leaf parsley, divided"
+      },
+      {
+        "name": "water",
+        "preparation": "1 teaspoon water, or as needed"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Heat olive oil in a heavy skillet over high heat until it just begins to smoke. Place shrimp in an even layer on the bottom of the pan and cook for 1 minute without stirring",
+      "Season shrimp with salt; cook and stir until shrimp begin to turn pink, about 1 minute",
+      "Add garlic and red pepper flakes; cook and stir for 1 minute",
+      "Stir in lemon juice, caper brine, 1 piece of butter, and 1/2 of the parsley; cook until butter has melted, about 1 minute",
+      "Reduce heat to low and stir in remaining 3 pieces butter. Cook and stir until butter has melted, sauce is thick, and shrimp are pink and opaque, 2 to 3 minutes",
+      "Remove shrimp with a slotted spoon and transfer to a bowl; continue to cook butter sauce, adding water, 1 teaspoon at a time, if too thick, about 2 minutes",
+      "Season with salt to taste; serve shrimp topped with the pan sauce and remaining parsley. Enjoy!"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/220597/simple-garlic-shrimp/",
+    "timeCook": "25 mins",
+    "recipeImage": "https://i.ibb.co/J7rvFD1/39-simple-garlic-shrimp.png"
+  },
+  {
+    "recipeID": 40,
+    "name": "Shrimp Fried Rice",
+    "ingredients": [
+      {
+        "name": "water",
+        "preparation": "3 cups water"
+      },
+      {
+        "name": "rice",
+        "preparation": "1 1/2 cups uncooked white rice"
+      },
+      {
+        "name": "vegetable oil",
+        "preparation": "4 tablespoons vegetable oil"
+      },
+      {
+        "name": "bean sprout",
+        "preparation": "1 cup fresh bean sprouts"
+      },
+      {
+        "name": "onion",
+        "preparation": "1/2 cup chopped onion"
+      },
+      {
+        "name": "shrimp",
+        "preparation": "1 1/2 cups cooked medium shrimp, peeled and deveined without tail"
+      },
+      {
+        "name": "egg",
+        "preparation": "2 large eggs, beaten"
+      },
+      {
+        "name": "green onion",
+        "preparation": "1/4 cup chopped green onion"
+      },
+      {
+        "name": "soy sauce",
+        "preparation": "4 tablespoons soy sauce"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "pepper",
+        "preparation": "1/4 teaspoon ground black pepper"
+      },
+      {
+        "name": "sesame oil",
+        "preparation": "1/4 teaspoon sesame oil"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Bring water to a boil in a saucepan. Add rice and stir. Reduce heat, cover, and simmer for 20 minutes. Set aside and allow rice to completely cool",
+      "Heat a large skillet or wok for 2 minutes. When the skillet or wok is hot, pour in vegetable oil, bean sprouts, and onions. Mix well and cook for 3 minutes",
+      "Mix in cooled rice and shrimp and cook for another 3 minutes. Stirring constantly",
+      "Add in eggs, green onion, soy sauce, salt, pepper, and sesame oil. Cook for another 4 minutes, stirring continuously, until eggs are cooked and everything is blended evenly"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/21561/shrimp-fried-rice-ii/",
+    "timeCook": "45 mins",
+    "recipeImage": "https://i.ibb.co/zxbtsLx/40-shrimp-fried-rice.png"
+  },
+  {
+    "recipeID": 41,
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      {
+        "name": "water",
+        "preparation": "3 cups water"
+      },
+      {
+        "name": "brown rice",
+        "preparation": "1 1/2 cups uncooked brown rice"
+      },
+      {
+        "name": "peanut oil",
+        "preparation": "2 tablespoons peanut oil"
+      },
+      {
+        "name": "onion",
+        "preparation": "1 small yellow onion, chopped"
+      },
+      {
+        "name": "green bell pepper",
+        "preparation": "1 small green bell pepper, chopped"
+      },
+      {
+        "name": "garlic",
+        "preparation": "1 teaspoon minced garlic"
+      },
+      {
+        "name": "red pepper",
+        "preparation": "¼ teaspoon red pepper flakes"
+      },
+      {
+        "name": "green onion",
+        "preparation": "3 green onions, thinly sliced"
+      },
+      {
+        "name": "soy sauce",
+        "preparation": "3 tablespoons soy sauce"
+      },
+      {
+        "name": "petite pea",
+        "preparation": "1 cup frozen petite peas"
+      },
+      {
+        "name": "sesame oil",
+        "preparation": "2 teaspoons sesame oil"
+      },
+      {
+        "name": "roasted peanut",
+        "preparation": "1/4 cup roasted peanuts (Optional)"
+      }
+    ],
+    "directions": [
+      "Bring water to a boil in a saucepan. Stir in rice. Reduce heat, cover, and simmer until liquid is absorbed, about 20 minutes. Set aside",
+      "Heat peanut oil in a large skillet or wok over medium heat. Add onions, bell pepper, garlic, and red pepper flakes. Cook, stirring occasionally, for 3 minutes",
+      "Increase heat to medium-high. Stir in cooked rice, green onions, and soy sauce; cook and stir for 1 minute",
+      "Add peas and cook for 1 minute more",
+      "Remove from heat. Stir in sesame oil and garnish with peanuts"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/21186/vegetable-fried-rice/",
+    "timeCook": "55 mins",
+    "recipeImage": "https://i.ibb.co/JB1JhcN/41-vegetable-fried-rice.png"
+  },
+  {
+    "recipeID": 42,
+    "name": "Crab Fried Rice",
+    "ingredients": [
+      {
+        "name": "water",
+        "preparation": "1 1/3 cups water"
+      },
+      {
+        "name": "white rice",
+        "preparation": "2/3 cup uncooked long grain white rice"
+      },
+      {
+        "name": "vegetable oil",
+        "preparation": "3 tablespoons vegetable oil"
+      },
+      {
+        "name": "onion",
+        "preparation": "2 medium onions, cut into wedges"
+      },
+      {
+        "name": "garlic",
+        "preparation": "3 cloves garlic, chopped"
+      },
+      {
+        "name": "salt",
+        "preparation": "2 teaspoons salt"
+      },
+      {
+        "name": "white sugar",
+        "preparation": "1 1/2 teaspoons white sugar"
+      },
+      {
+        "name": "egg",
+        "preparation": "1 large egg, beaten"
+      },
+      {
+        "name": "crabmeat",
+        "preparation": "1/4 pound cooked crabmeat"
+      },
+      {
+        "name": "green onion",
+        "preparation": "3 green onions, chopped"
+      },
+      {
+        "name": "cilantro",
+        "preparation": "1 tablespoon chopped cilantro"
+      },
+      {
+        "name": "cucumber",
+        "preparation": "1/2 cucumber, sliced"
+      },
+      {
+        "name": "lime",
+        "preparation": "1 lime, sliced"
+      }
+    ],
+    "directions": [
+      "Place water and rice in a saucepan; bring to a boil. Reduce heat, cover, and simmer until water is absorbed, about 20 minutes. Set aside",
+      "Heat oil in a wok over medium heat. Cook and stir onions and garlic in hot oil until tender. Mix in cooked rice, salt, and sugar; cook, stirring occasionally, until well blended, about 5 minutes. Stir in beaten egg until rice is coated. Increase heat to high and mix in crabmeat, green onions, and cilantro. Cook and stir until crab is heated through, 2 to 5 minutes. Garnish with cucumber and lime slices to serve"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/34690/crab-fried-rice/",
+    "timeCook": "50 mins",
+    "recipeImage": "https://i.ibb.co/T14JJBM/42-crab-fried-rice.png"
+  },
+  {
+    "recipeID": 43,
+    "name": "Chinese Chicken Fried Rice",
+    "ingredients": [
+      {
+        "name": "sesame oil",
+        "preparation": "1/2 tablespoon sesame oil"
+      },
+      {
+        "name": "onion",
+        "preparation": "1 onion, diced"
+      },
+      {
+        "name": "chicken",
+        "preparation": "1 ½ pounds cooked, cubed chicken meat"
+      },
+      {
+        "name": "soy sauce",
+        "preparation": "2 tablespoons soy sauce"
+      },
+      {
+        "name": "carrot",
+        "preparation": "2 large carrots, diced"
+      },
+      {
+        "name": "celery",
+        "preparation": "2 stalks celery, diced"
+      },
+      {
+        "name": "bell pepper",
+        "preparation": "1 large red bell pepper, diced"
+      },
+      {
+        "name": "pea pod",
+        "preparation": "3/4 cup fresh pea pods, halved"
+      },
+      {
+        "name": "bell pepper",
+        "preparation": "1/2 large green bell pepper, diced"
+      },
+      {
+        "name": "white rice",
+        "preparation": "6 cups cooked white rice"
+      },
+      {
+        "name": "egg",
+        "preparation": "2 large eggs, scrambled"
+      },
+      {
+        "name": "soy sauce",
+        "preparation": "1/3 cup soy sauce"
+      }
+    ],
+    "directions": [
+      "Heat sesame oil in a large skillet over medium heat. Add onion and sauté until soft. Add cooked chicken and 2 tablespoons soy sauce; stir-fry for 5 to 6 minutes",
+      "Stir in carrots, celery, red bell pepper, pea pods, and green bell pepper; stir-fry for 5 minutes. Mix in cooked rice until thoroughly combined",
+      "Stir in scrambled eggs and 1/3 cup soy sauce; cook until heated through and serve hot"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/17161/chinese-chicken-fried-rice-i/",
+    "timeCook": "40 mins",
+    "recipeImage": "https://i.ibb.co/FWTNwzh/43-chinese-chicken-fried-rice.png"
+  },
+  {
+    "recipeID": 44,
+    "name": "Maple Salmon",
+    "ingredients": [
+      {
+        "name": "maple syrup",
+        "preparation": "1/4 cup maple syrup"
+      },
+      {
+        "name": "soy sauce",
+        "preparation": "2 tablespoons soy sauce"
+      },
+      {
+        "name": "garlic",
+        "preparation": "1 clove garlic, minced"
+      },
+      {
+        "name": "salt",
+        "preparation": "1/4 teaspoon garlic salt"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "1/8 teaspoon ground black pepper"
+      },
+      {
+        "name": "salmon",
+        "preparation": "1 pound salmon"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Stir maple syrup, soy sauce, garlic, garlic salt, and pepper together in a small bowl",
+      "Cut salmon into 4 equal-sized fillets; place in a shallow glass baking dish and coat with maple syrup mixture. Cover the dish and marinate salmon in the refrigerator for 30 minutes, turning once halfway",
+      "Preheat the oven to 400 degrees F (200 degrees C)",
+      "Place the baking dish in the preheated oven and bake salmon uncovered until flesh easily flakes with a fork, about 20 minutes",
+      "Enjoy!"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/51283/maple-salmon/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://i.ibb.co/5vyyDJg/44-maple-salmon.png"
+  },
+  {
+    "recipeID": 45,
+    "name": "Baked Salmon",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "preparation": "6 tablespoons light olive oil"
+      },
+      {
+        "name": "garlic",
+        "preparation": "2 cloves garlic, minced"
+      },
+      {
+        "name": "lemon juice",
+        "preparation": "1 tablespoon lemon juice"
+      },
+      {
+        "name": "parsley",
+        "preparation": "1 tablespoon fresh parsley, chopped"
+      },
+      {
+        "name": "basil",
+        "preparation": "1 teaspoon dried basil"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "1 teaspoon ground black pepper"
+      },
+      {
+        "name": "salmon",
+        "preparation": "2 (6 ounce) fillets salmon"
+      }
+    ],
+    "directions": [
+      "Whisk olive oil, garlic, lemon juice, parsley, basil, salt, and pepper together in a medium bowl",
+      "Arrange salmon fillets in a small glass or ceramic baking dish; pour marinade over salmon. Cover and marinate in the refrigerator for about 1 hour, turning occasionally",
+      "Preheat the oven to 375 degrees F (190 degrees C)",
+      "Transfer salmon fillets onto a large piece of aluminum foil. Spoon marinade on top and fold up the foil to seal. Place sealed foil packs on a baking sheet",
+      "Bake in preheated oven until fish flakes easily with a fork, about 35 to 45 minutes",
+      "Serve hot and enjoy!"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/34746/baked-salmon-ii/",
+    "timeCook": "60 mins",
+    "recipeImage": "https://i.ibb.co/NTQxyRD/45-baked-salmon.png"
+  },
+  {
+    "recipeID": 46,
+    "name": "Easy Spaghetti with Tomato Sauce",
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "preparation": "1 pound lean ground beef"
+      },
+      {
+        "name": "tomatoe",
+        "preparation": "2 1/2 cups chopped tomatoes"
+      },
+      {
+        "name": "tomato paste",
+        "preparation": "1 1/3 (6 ounce) cans tomato paste"
+      },
+      {
+        "name": "mushroom",
+        "preparation": "1 (4.5 ounce) can sliced mushrooms"
+      },
+      {
+        "name": "onion",
+        "preparation": "2 tablespoons dried minced onion"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "oregano",
+        "preparation": "1 teaspoon dried oregano"
+      },
+      {
+        "name": "white sugar",
+        "preparation": "3/4 teaspoon white sugar"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "1/4 teaspoon ground black pepper"
+      },
+      {
+        "name": "garlic",
+        "preparation": "1/8 teaspoon garlic powder"
+      },
+      {
+        "name": "spaghetti",
+        "preparation": "12 ounces spaghetti"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease",
+      "Transfer beef into a large pot over low heat; stir in tomatoes, tomato paste, mushrooms, onion, salt, oregano, sugar, pepper, and garlic powder. Cover and simmer, stirring occasionally, for 2 hours",
+      "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes; drain. Serve meat sauce over spaghetti"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/11715/easy-spaghetti-with-tomato-sauce/",
+    "timeCook": "145 mins",
+    "recipeImage": "https://i.ibb.co/N2p5yTn/46-easy-spaghetti-with-tomato-sauce.png"
+  },
+  {
+    "recipeID": 47,
+    "name": "Creamy Garlic Pasta",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "preparation": "2 teaspoons olive oil"
+      },
+      {
+        "name": "garlic",
+        "preparation": "4 garlic cloves, minced"
+      },
+      {
+        "name": "butter",
+        "preparation": "2 tablespoons butter"
+      },
+      {
+        "name": "chicken broth",
+        "preparation": "3 cups chicken broth, or more as needed"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "1/2 teaspoon ground black pepper"
+      },
+      {
+        "name": "salt",
+        "preparation": "1/4 teaspoon salt"
+      },
+      {
+        "name": "spaghetti",
+        "preparation": "1/2 pound spaghetti"
+      },
+      {
+        "name": "cheese",
+        "preparation": "1 cup grated Parmesan cheese"
+      },
+      {
+        "name": "cream",
+        "preparation": "3/4 cup heavy cream"
+      },
+      {
+        "name": "parsley",
+        "preparation": "1 1/2 tablespoons dried parsley"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Heat olive oil in a medium pan over medium heat. Add garlic and stir until fragrant, 1 to 2 minutes. Add butter and stir constantly until melted",
+      "Pour in 3 cups chicken broth; add pepper and salt. Bring to a boil. Add spaghetti and cook, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Add more chicken broth if pasta starts to stick to the pan",
+      "Add Parmesan cheese, cream, and parsley and mix until thoroughly combined. Serve immediately"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/269500/creamy-garlic-pasta/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://i.ibb.co/0QW8GTc/47-creamy-garlic-pasta.png"
+  },
+  {
+    "recipeID": 48,
+    "name": "Buttered Noodles",
+    "ingredients": [
+      {
+        "name": "noodle",
+        "preparation": "1 (16 ounce) package fettuccine noodles"
+      },
+      {
+        "name": "butter",
+        "preparation": "6 tablespoons butter, cut into pieces"
+      },
+      {
+        "name": "cheese",
+        "preparation": "1/3 cup grated Parmesan cheese"
+      },
+      {
+        "name": "salt",
+        "preparation": "salt to taste"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "ground black pepper to taste"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Fill a large pot with lightly salted water and bring to a rolling boil",
+      "Stir in fettuccine, bring back to a boil, and cook pasta over medium heat until tender yet firm to the bite, 8 to 10 minutes",
+      "Drain and return pasta to pot. Mix butter, Parmesan cheese, salt, and pepper into pasta until evenly combined",
+      "Serve hot and enjoy!"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/244458/buttered-noodles/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://i.ibb.co/rGsG3SF/48-buttered-noodles.png"
+  },
+  {
+    "recipeID": 49,
+    "name": "Garlic-Herb Linguine",
+    "ingredients": [
+      {
+        "name": "linguine",
+        "preparation": "4 ounces dried linguine"
+      },
+      {
+        "name": "butter",
+        "preparation": "¼ cup butter, melted"
+      },
+      {
+        "name": "garlic",
+        "preparation": "1 teaspoon minced garlic"
+      },
+      {
+        "name": "parsley",
+        "preparation": "1 teaspoon dried parsley"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon seasoned salt, or to taste"
+      }
+    ],
+    "directions": [
+      "Bring a large pot of lightly salted water to a boil. Cook linguine at a boil until tender yet firm to the bite, 10 to 11 minutes. Drain and transfer to a large bowl",
+      "Mix melted butter, garlic, and parsley together in a small bowl. Drizzle butter mixture over linguine. Add seasoned salt and toss to coat"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/241491/garlic-herb-linguine/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://i.ibb.co/QngyG0w/49-garlic-herb-linguine.png"
+  },
+  {
+    "recipeID": 50,
+    "name": "Shrimp Spaghetti with Tomato Sauce",
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "preparation": "20 large shrimp, deveined with shell and head left on"
+      },
+      {
+        "name": "tomato",
+        "preparation": "4 tomatoes, or more to taste"
+      },
+      {
+        "name": "parsley",
+        "preparation": "1 bunch flat-leaf parsley, divided"
+      },
+      {
+        "name": "olive oil",
+        "preparation": "1/4 cup extra-virgin olive oil"
+      },
+      {
+        "name": "onion",
+        "preparation": "1 large onion, chopped"
+      },
+      {
+        "name": "red bell pepper",
+        "preparation": "1 red bell pepper, chopped"
+      },
+      {
+        "name": "red chile pepper",
+        "preparation": "1 fresh red chile pepper, finely chopped"
+      },
+      {
+        "name": "garlic",
+        "preparation": "4 large cloves garlic, sliced, or more to taste"
+      },
+      {
+        "name": "water",
+        "preparation": "1/2 cup water"
+      },
+      {
+        "name": "tomato paste",
+        "preparation": "2 tablespoons tomato paste"
+      },
+      {
+        "name": "oregano",
+        "preparation": "1 tablespoon dried oregano"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "ground black pepper to taste"
+      },
+      {
+        "name": "salt",
+        "preparation": "to taste"
+      },
+      {
+        "name": "paprika",
+        "preparation": "1 teaspoon paprika"
+      },
+      {
+        "name": "spaghetti",
+        "preparation": "1 5/8 pounds spaghetti (Optional)"
+      }
+    ],
+    "directions": [
+      "Peel shrimp and place skin, heads, and tails into a large saucepan. Fill pan with water and bring to a boil. Reduce heat to low and let simmer, about 45 minutes",
+      "Combine tomatoes and 1/2 the parsley in a blender; puree until smooth",
+      "Heat olive oil in a separate pan over medium heat. Add onion, bell pepper, and chile pepper; cook and stir until softened, about 5 minutes. Add garlic; cook until fragrant but not browned, 1 to 2 minutes",
+      "Pour pureed tomato mixture into the pan with the peppers. Add water, tomato paste, oregano, salt, and black pepper. Stir well; add paprika. Let sauce simmer on low to medium heat until juices have reduced",
+      "Strain shrimp shells from the water. Bring water back to a boil and add spaghetti. Cook spaghetti, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Reserve 1 cup of the cooking water and drain the rest",
+      "In the meantime, add shrimp to the tomato sauce. Add the reserved water, stir well, and cook until shrimp is pink, about 3 minutes. Plate spaghetti and spoon the sauce on top; garnish with the remaining parsley"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/263413/shrimp-spaghetti-with-tomato-sauce/",
+    "timeCook": "80 mins",
+    "recipeImage": "https://i.ibb.co/D1QT0QT/50-shrimp-spaghetti-with-tomato-sauce.png"
+  },
+  {
+    "recipeID": 51,
+    "name": "Crispy Parmesan Potatoes ",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "preparation": "2 tablespoons"
+      },
+      { "name": "garlic cloves", "preparation": "3 garlic cloves" },
+      { "name": "salt", "preparation": "1/2 teaspoon salt" },
+      {
+        "name": "black pepper",
+        "preparation": "1/4 teaspoon black pepper"
+      },
+      {
+        "name": "parsley",
+        "preparation": "1 tablespoon chopped parsely"
+      },
+      {
+        "name": "potato",
+        "preparation": "24 oz"
+      },
+      {
+        "name": "parmesan cheese",
+        "preparation": "3/4 cup grated parmesan cheese"
+      }
+    ],
+    "directions": [
+      "Preheat oven to 400 degrees F (200 degrees C)",
+      "Prepare the olive oil mixture: To a large bowl, add the olive oil, grated garlic, kosher salt, pepper, cayenne (if using), and parsley (if using). Stir to combine.",
+      "Cut each potato in half, adding to the olive oil mixture as you slice to avoid browning.",
+      "Arrange the potatoes on the lined baking sheet in a single layer with the cut side facing down, scraping whatever loose Parmesan mixture there is in the bowl onto the flat sides of the potatoes as you arrange.",
+      "Remove the baking sheet from the oven and let the potatoes sit for 5 minutes."
+    ],
+    "sourceURL": "https://www.simplyrecipes.com/crispy-parmesan-potatoes-recipe-8624794",
+    "timeCook": "35 mins",
+    "recipeImage": "https://www.simplyrecipes.com/thmb/2OkWfhSqNKxLosDlT4WmvdhInDI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simpy-Recipes-Crispy-Parmesan-Potatoes-LEAD-58b39a4cb4b54f8d88644d5edc0743e6.jpg"
+  },
+  {
+    "recipeID": 52,
+    "name": "Garlic Butter Shrimp",
+    "ingredients": [
+      { "name": "shrimp", "preparation": "1 lb, peeled and deveined" },
+      {
+        "name": "butter",
+        "preparation": "3 tablespoons unsalted butter"
+      },
+      { "name": "garlic", "preparation": "4 cloves, minced" },
+      {
+        "name": "lemon juice",
+        "preparation": "2 tablespoons fresh lemon juice"
+      },
+      {
+        "name": "parsley",
+        "preparation": "2 tablespoons chopped parsley"
+      },
+      {
+        "name": "red pepper flakes",
+        "preparation": "1/4 teaspoon (optional)"
+      },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "black pepper", "preparation": "1/4 teaspoon" }
+    ],
+    "directions": [
+      "Heat a large skillet over medium heat and melt the butter.",
+      "Add minced garlic and sauté until fragrant, about 1 minute.",
+      "Add shrimp to the skillet and season with salt, pepper, and red pepper flakes (if using).",
+      "Cook shrimp for 2-3 minutes on each side or until pink and opaque.",
+      "Remove from heat and drizzle with lemon juice. Sprinkle with parsley before serving."
+    ],
+    "sourceURL": "https://www.jocooks.com/recipes/garlic-butter-shrimp/",
+    "timeCook": "15 mins",
+    "recipeImage": "https://www.jocooks.com/wp-content/uploads/2021/09/garlic-butter-shrimp-1-10.jpg"
+  },
+  {
+    "recipeID": 53,
+    "name": "Classic Margherita Pizza",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "preparation": "1 lb, store-bought or homemade"
+      },
+      { "name": "tomato sauce", "preparation": "1/2 cup" },
+      { "name": "mozzarella cheese", "preparation": "8 oz, sliced" },
+      { "name": "fresh basil leaves", "preparation": "a handful" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "salt", "preparation": "1/4 teaspoon" },
+      { "name": "black pepper", "preparation": "a pinch" }
+    ],
+    "directions": [
+      "Preheat your oven to 475°F (245°C) and place a pizza stone or baking sheet inside.",
+      "Roll out the pizza dough on a floured surface to your desired thickness.",
+      "Spread the tomato sauce evenly over the dough.",
+      "Arrange the mozzarella slices on top and add a few fresh basil leaves.",
+      "Drizzle with olive oil and season with salt and black pepper.",
+      "Transfer the pizza to the hot pizza stone or baking sheet and bake for 10-12 minutes, or until the crust is golden and the cheese is bubbly."
+    ],
+    "sourceURL": "https://ohsweetbasil.com/margherita-pizza/",
+    "timeCook": "25 mins",
+    "recipeImage": "https://ohsweetbasil.com/wp-content/uploads/how-to-make-authentic-margherita-pizza-at-home-recipe-4.jpg"
+  },
+  {
+    "recipeID": 54,
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      { "name": "butter", "preparation": "1 cup, softened" },
+      { "name": "brown sugar", "preparation": "1 cup, packed" },
+      { "name": "white sugar", "preparation": "1/2 cup" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" },
+      { "name": "eggs", "preparation": "2 large" },
+      { "name": "all-purpose flour", "preparation": "2 1/4 cups" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "chocolate chips", "preparation": "2 cups" }
+    ],
+    "directions": [
+      "Preheat your oven to 375°F (190°C).",
+      "In a bowl, cream together the butter, brown sugar, and white sugar until smooth.",
+      "Beat in the eggs one at a time, then stir in the vanilla.",
+      "In another bowl, combine the flour, baking soda, and salt. Gradually blend into the creamed mixture.",
+      "Fold in the chocolate chips.",
+      "Drop by rounded spoonfuls onto ungreased baking sheets.",
+      "Bake for 8-10 minutes or until golden brown. Let cool on the baking sheet for 5 minutes before transferring to wire racks."
+    ],
+    "sourceURL": "https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies.jpg"
+  },
+  {
+    "recipeID": 55,
+    "name": "Spaghetti Aglio e Olio",
+    "ingredients": [
+      { "name": "spaghetti", "preparation": "12 oz" },
+      { "name": "olive oil", "preparation": "1/4 cup" },
+      { "name": "garlic", "preparation": "6 cloves, thinly sliced" },
+      { "name": "red pepper flakes", "preparation": "1/2 teaspoon" },
+      { "name": "parsley", "preparation": "2 tablespoons, chopped" },
+      { "name": "parmesan cheese", "preparation": "1/4 cup, grated" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Cook the spaghetti in salted boiling water until al dente. Reserve 1/2 cup of pasta water and drain the rest.",
+      "In a large skillet, heat olive oil over medium heat.",
+      "Add sliced garlic and red pepper flakes, cooking until garlic is golden and fragrant.",
+      "Add the cooked spaghetti to the skillet and toss to coat in the oil mixture.",
+      "Stir in reserved pasta water as needed for desired consistency.",
+      "Season with salt and pepper, and garnish with parsley and parmesan cheese before serving."
+    ],
+    "sourceURL": "https://www.simplyrecipes.com/spaghetti-aglio-e-olio-pasta-with-garlic-and-oil-recipe-6455612",
+    "timeCook": "20 mins",
+    "recipeImage": "https://www.simplyrecipes.com/thmb/gjS-FSuYnqK3fclkE2fWhYl1VWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Spaghetti-Aglio-e-Olio-LEAD-2-c8e7e8c6edb04a8691463c6ea8cd4ba1.jpg"
+  },
+  {
+    "recipeID": 56,
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      {
+        "name": "romaine lettuce",
+        "preparation": "1 large head, chopped"
+      },
+      {
+        "name": "chicken breast",
+        "preparation": "2, grilled and sliced"
+      },
+      { "name": "caesar dressing", "preparation": "1/2 cup" },
+      { "name": "croutons", "preparation": "1 cup" },
+      { "name": "parmesan cheese", "preparation": "1/4 cup, shaved" },
+      { "name": "olive oil", "preparation": "1 tablespoon" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Heat olive oil in a skillet and grill chicken breasts until fully cooked, about 4-5 minutes per side. Slice into strips.",
+      "In a large bowl, combine chopped romaine lettuce and croutons.",
+      "Drizzle Caesar dressing over the salad and toss to coat evenly.",
+      "Top with grilled chicken slices and shaved parmesan cheese.",
+      "Sprinkle with black pepper and serve immediately."
+    ],
+    "sourceURL": "https://www.africanbites.com/chicken-caesar-salad/",
+    "timeCook": "25 mins",
+    "recipeImage": "https://www.africanbites.com/wp-content/uploads/2021/04/IMG_7901.jpg"
+  },
+  {
+    "recipeID": 57,
+    "name": "Banana Pancakes",
+    "ingredients": [
+      { "name": "banana", "preparation": "2 ripe, mashed" },
+      { "name": "all-purpose flour", "preparation": "1 cup" },
+      { "name": "milk", "preparation": "1/2 cup" },
+      { "name": "egg", "preparation": "1 large" },
+      { "name": "baking powder", "preparation": "1 teaspoon" },
+      { "name": "sugar", "preparation": "2 tablespoons" },
+      { "name": "butter", "preparation": "2 tablespoons, melted" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/4 teaspoon" }
+    ],
+    "directions": [
+      "In a large bowl, whisk together the mashed bananas, milk, egg, melted butter, and vanilla extract.",
+      "In another bowl, mix flour, sugar, baking powder, and salt.",
+      "Gradually add the dry ingredients to the wet ingredients, stirring until just combined.",
+      "Heat a non-stick skillet over medium heat and lightly grease with butter or oil.",
+      "Pour 1/4 cup of batter onto the skillet and cook until bubbles form on the surface, then flip and cook until golden brown on both sides.",
+      "Serve warm with your favorite toppings."
+    ],
+    "sourceURL": "https://feelgoodfoodie.net/recipe/banana-pancakes/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://feelgoodfoodie.net/wp-content/uploads/2022/05/Banana-Pancakes-08.jpg"
+  },
+  {
+    "recipeID": 58,
+    "name": "Beef Tacos",
+    "ingredients": [
+      { "name": "ground beef", "preparation": "1 lb" },
+      { "name": "taco seasoning", "preparation": "2 tablespoons" },
+      { "name": "water", "preparation": "1/4 cup" },
+      { "name": "taco shells", "preparation": "8" },
+      { "name": "lettuce", "preparation": "1 cup, shredded" },
+      { "name": "tomato", "preparation": "1, diced" },
+      { "name": "cheddar cheese", "preparation": "1/2 cup, shredded" },
+      { "name": "sour cream", "preparation": "1/4 cup" },
+      { "name": "salsa", "preparation": "1/4 cup" }
+    ],
+    "directions": [
+      "Heat a skillet over medium heat and cook the ground beef until browned. Drain excess fat.",
+      "Add taco seasoning and water to the beef, stir, and cook until the mixture thickens.",
+      "Warm the taco shells according to package instructions.",
+      "Assemble the tacos by adding beef, lettuce, tomato, cheese, sour cream, and salsa to each shell.",
+      "Serve immediately."
+    ],
+    "sourceURL": "https://oliviaadriance.com/crispy-baked-ground-beef-tacos/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://oliviaadriance.com/wp-content/uploads/2023/07/Final_3_Crispy_Baked_Beef_Tacos_grain-free-dairy-free.jpg"
+  },
+  {
+    "recipeID": 59,
+    "name": "Beef Stroganoff",
+    "ingredients": [
+      {
+        "name": "beef sirloin",
+        "preparation": "1 lb, sliced into thin strips"
+      },
+      { "name": "mushrooms", "preparation": "8 oz, sliced" },
+      { "name": "onion", "preparation": "1, diced" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "butter", "preparation": "2 tablespoons" },
+      { "name": "beef broth", "preparation": "2 cups" },
+      { "name": "sour cream", "preparation": "1 cup" },
+      { "name": "flour", "preparation": "2 tablespoons" },
+      { "name": "egg noodles", "preparation": "12 oz, cooked" },
+      { "name": "parsley", "preparation": "1 tablespoon, chopped" }
+    ],
+    "directions": [
+      "Heat butter in a large skillet over medium heat. Sauté beef strips until browned, then remove and set aside.",
+      "In the same skillet, cook onions and mushrooms until softened. Add garlic and cook for 1 minute.",
+      "Sprinkle flour over the vegetables and stir well. Gradually add beef broth, stirring constantly until thickened.",
+      "Return the beef to the skillet and simmer for 5 minutes. Stir in sour cream and cook until heated through.",
+      "Serve over cooked egg noodles and garnish with parsley."
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/25202/beef-stroganoff-iii/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/mSWde3PHTu-fDkbvWBw0D1JlS8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25202beef-stroganoff-iii-ddmfs-3x4-233-0f26fa477e9c446b970a32502468efc6.jpg"
+  },
+  {
+    "recipeID": 60,
+    "name": "Shrimp Tacos",
+    "ingredients": [
+      { "name": "shrimp", "preparation": "1 lb, peeled and deveined" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "garlic powder", "preparation": "1 teaspoon" },
+      { "name": "paprika", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "black pepper", "preparation": "1/4 teaspoon" },
+      { "name": "corn tortillas", "preparation": "8, warmed" },
+      { "name": "cabbage", "preparation": "2 cups, shredded" },
+      { "name": "lime", "preparation": "1, sliced" },
+      { "name": "cilantro", "preparation": "2 tablespoons, chopped" }
+    ],
+    "directions": [
+      "Toss shrimp with olive oil, garlic powder, paprika, salt, and black pepper.",
+      "Heat a skillet over medium-high heat and cook shrimp for 2-3 minutes per side until opaque.",
+      "Assemble tacos by placing shrimp on warm tortillas, topped with cabbage, a squeeze of lime, and cilantro."
+    ],
+    "sourceURL": "https://therecipecritic.com/easy-shrimp-tacos/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://therecipecritic.com/wp-content/uploads/2022/12/shrimp_tacos-1.jpg"
+  },
+  {
+    "recipeID": 61,
+    "name": "Stuffed Bell Peppers",
+    "ingredients": [
+      {
+        "name": "bell peppers",
+        "preparation": "4, tops cut off and seeds removed"
+      },
+      { "name": "ground beef", "preparation": "1 lb" },
+      { "name": "onion", "preparation": "1, diced" },
+      { "name": "rice", "preparation": "1 cup, cooked" },
+      { "name": "tomato sauce", "preparation": "1 can (15 oz)" },
+      { "name": "Parmesan cheese", "preparation": "1/2 cup, grated" },
+      { "name": "garlic powder", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a skillet, cook ground beef and onions until browned. Stir in cooked rice, tomato sauce, garlic powder, salt, and pepper.",
+      "Stuff each bell pepper with the beef mixture and place in a baking dish.",
+      "Cover with foil and bake for 25 minutes. Remove foil, sprinkle with Parmesan cheese, and bake for an additional 10 minutes."
+    ],
+    "sourceURL": "https://saltedmint.com/mediterranean-stuffed-bell-peppers/",
+    "timeCook": "45 mins",
+    "recipeImage": "https://saltedmint.com/wp-content/uploads/2024/01/Easy-Stuffed-bell-peppers-with-rice-2.jpg"
+  },
+  {
+    "recipeID": 62,
+    "name": "French Onion Soup",
+    "ingredients": [
+      { "name": "onions", "preparation": "4 large, thinly sliced" },
+      { "name": "butter", "preparation": "3 tablespoons" },
+      { "name": "beef broth", "preparation": "4 cups" },
+      { "name": "dry white wine", "preparation": "1 cup" },
+      { "name": "baguette", "preparation": "8 slices, toasted" },
+      { "name": "Gruyere cheese", "preparation": "1 cup, grated" },
+      { "name": "thyme", "preparation": "1 teaspoon, dried" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Melt butter in a large pot over medium heat. Add onions and cook, stirring often, until caramelized, about 30 minutes.",
+      "Add beef broth, wine, thyme, salt, and pepper. Simmer for 20 minutes.",
+      "Ladle soup into oven-safe bowls, top with a slice of toasted baguette, and sprinkle with Gruyere cheese.",
+      "Place under the broiler until cheese is melted and bubbly. Serve immediately."
+    ],
+    "sourceURL": "https://www.recipetineats.com/french-onion-soup/",
+    "timeCook": "60 mins",
+    "recipeImage": "https://www.recipetineats.com/tachyon/2018/11/French-Onion-Soup_1.jpg"
+  },
+  {
+    "recipeID": 63,
+    "name": "Banana Bread",
+    "ingredients": [
+      { "name": "ripe bananas", "preparation": "3, mashed" },
+      { "name": "flour", "preparation": "2 cups" },
+      { "name": "sugar", "preparation": "1 cup" },
+      { "name": "butter", "preparation": "1/2 cup, melted" },
+      { "name": "eggs", "preparation": "2, beaten" },
+      { "name": "baking soda", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/2 teaspoon" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" }
+    ],
+    "directions": [
+      "Preheat oven to 350°F (175°C). Grease a loaf pan.",
+      "In a large bowl, mix mashed bananas, melted butter, and vanilla extract.",
+      "Stir in sugar, beaten eggs, baking soda, and salt. Gradually add flour and mix until just combined.",
+      "Pour batter into the prepared loaf pan and bake for 60-65 minutes, or until a toothpick inserted into the center comes out clean."
+    ],
+    "sourceURL": "https://www.simplyrecipes.com/recipes/banana_bread/",
+    "timeCook": "70 mins",
+    "recipeImage": "https://www.simplyrecipes.com/thmb/6NhQKyjhBOmu4y0RXXHipugv0Q8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Banana-Bread-LEAD-2-66837beab63c495292d89743c6767171.jpg"
+  },
+  {
+    "recipeID": 64,
+    "name": "Chicken Alfredo Pasta",
+    "ingredients": [
+      { "name": "fettuccine", "preparation": "12 oz, cooked" },
+      { "name": "chicken breasts", "preparation": "2, sliced" },
+      { "name": "butter", "preparation": "4 tablespoons" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "heavy cream", "preparation": "1 cup" },
+      { "name": "Parmesan cheese", "preparation": "1 cup, grated" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" },
+      { "name": "parsley", "preparation": "2 tablespoons, chopped" }
+    ],
+    "directions": [
+      "Heat 2 tablespoons of butter in a skillet over medium heat. Add chicken and cook until golden and fully cooked. Remove and set aside.",
+      "In the same skillet, melt the remaining butter and sauté garlic until fragrant.",
+      "Stir in heavy cream and bring to a gentle simmer. Add Parmesan cheese, salt, and pepper, stirring until the sauce thickens.",
+      "Toss the cooked fettuccine in the sauce and top with cooked chicken. Garnish with parsley before serving."
+    ],
+    "sourceURL": "https://www.recipetineats.com/one-pot-chicken-alfredo-pasta/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://www.recipetineats.com/tachyon/2017/03/One-Pot-Chicken-Alfredo-2.jpg"
+  },
+  {
+    "recipeID": 65,
+    "name": "Vegetable Stir-Fry",
+    "ingredients": [
+      { "name": "broccoli florets", "preparation": "2 cups" },
+      { "name": "carrots", "preparation": "1 cup, sliced" },
+      { "name": "bell peppers", "preparation": "1 cup, sliced" },
+      { "name": "snap peas", "preparation": "1 cup" },
+      { "name": "soy sauce", "preparation": "1/4 cup" },
+      { "name": "honey", "preparation": "2 tablespoons" },
+      { "name": "ginger", "preparation": "1 teaspoon, grated" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      {
+        "name": "cornstarch",
+        "preparation": "1 tablespoon, mixed with 2 tablespoons water"
+      },
+      { "name": "sesame oil", "preparation": "1 tablespoon" }
+    ],
+    "directions": [
+      "Heat sesame oil in a large wok over high heat.",
+      "Add garlic and ginger, sauté for 1 minute. Add vegetables and stir-fry for 5-7 minutes until tender-crisp.",
+      "In a small bowl, mix soy sauce, honey, and cornstarch slurry. Pour over vegetables and cook until the sauce thickens.",
+      "Serve hot with steamed rice or noodles."
+    ],
+    "sourceURL": "https://natashaskitchen.com/vegetable-stir-fry/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://natashaskitchen.com/wp-content/uploads/2020/08/Vegetable-Stir-Fry-2.jpg"
+  },
+  {
+    "recipeID": 66,
+    "name": "Lemon Herb Salmon",
+    "ingredients": [
+      { "name": "salmon fillets", "preparation": "4, skin-on" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "lemon juice", "preparation": "2 tablespoons" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "dill", "preparation": "1 tablespoon, chopped" },
+      { "name": "parsley", "preparation": "1 tablespoon, chopped" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+      "Mix olive oil, lemon juice, garlic, dill, parsley, salt, and pepper in a small bowl.",
+      "Place salmon fillets on the baking sheet and brush generously with the mixture.",
+      "Bake for 12-15 minutes or until salmon is flaky and cooked through."
+    ],
+    "sourceURL": "https://sallysbakingaddiction.com/baked-lemon-herb-salmon/",
+    "timeCook": "25 mins",
+    "recipeImage": "https://sallysbakingaddiction.com/wp-content/uploads/2015/08/Simple-Lemon-Herb-Salmon-4.jpg"
+  },
+  {
+    "recipeID": 67,
+    "name": "Classic Pancakes",
+    "ingredients": [
+      { "name": "all-purpose flour", "preparation": "1 1/2 cups" },
+      { "name": "sugar", "preparation": "1 tablespoon" },
+      { "name": "baking powder", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "1/4 teaspoon" },
+      { "name": "milk", "preparation": "1 cup" },
+      { "name": "egg", "preparation": "1, beaten" },
+      { "name": "butter", "preparation": "2 tablespoons, melted" },
+      { "name": "vanilla extract", "preparation": "1 teaspoon" }
+    ],
+    "directions": [
+      "In a large bowl, mix flour, sugar, baking powder, and salt.",
+      "In another bowl, whisk milk, egg, melted butter, and vanilla extract.",
+      "Pour wet ingredients into dry ingredients and mix until just combined.",
+      "Heat a skillet over medium heat and pour 1/4 cup of batter for each pancake. Cook until bubbles form and edges are set, then flip and cook the other side."
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/FE0PiuuR0Uh06uVh1c2AsKjRGbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-Good-old-Fashioned-Pancakes-mfs_002-0e249c95678f446291ebc9408ae64c05.jpg"
+  },
+  {
+    "recipeID": 68,
+    "name": "Vegetable Curry",
+    "ingredients": [
+      { "name": "potatoes", "preparation": "2, diced" },
+      { "name": "carrots", "preparation": "1 cup, diced" },
+      { "name": "green beans", "preparation": "1 cup, trimmed" },
+      { "name": "onion", "preparation": "1, diced" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "curry powder", "preparation": "1 tablespoon" },
+      { "name": "coconut milk", "preparation": "1 can (14 oz)" },
+      { "name": "tomato paste", "preparation": "2 tablespoons" },
+      { "name": "vegetable broth", "preparation": "1 cup" },
+      { "name": "cilantro", "preparation": "2 tablespoons, chopped" }
+    ],
+    "directions": [
+      "Heat oil in a large pot over medium heat. Sauté onions and garlic until softened.",
+      "Stir in curry powder and tomato paste, cooking for 1 minute.",
+      "Add potatoes, carrots, and green beans, followed by vegetable broth and coconut milk. Bring to a simmer and cook until vegetables are tender.",
+      "Serve hot, garnished with cilantro."
+    ],
+    "sourceURL": "",
+    "timeCook": "40 mins",
+    "recipeImage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/vegetable-curry-recipe.jpg"
+  },
+  {
+    "recipeID": 69,
+    "name": "Vegetable Pad Thai",
+    "ingredients": [
+      { "name": "rice noodles", "preparation": "8 oz, cooked" },
+      { "name": "eggs", "preparation": "2, lightly beaten" },
+      { "name": "carrots", "preparation": "1 cup, julienned" },
+      { "name": "bean sprouts", "preparation": "1 cup" },
+      { "name": "green onions", "preparation": "1/4 cup, chopped" },
+      { "name": "peanuts", "preparation": "1/4 cup, crushed" },
+      { "name": "soy sauce", "preparation": "3 tablespoons" },
+      { "name": "lime juice", "preparation": "2 tablespoons" },
+      { "name": "brown sugar", "preparation": "1 tablespoon" },
+      { "name": "vegetable oil", "preparation": "2 tablespoons" }
+    ],
+    "directions": [
+      "Heat vegetable oil in a skillet over medium heat and scramble eggs; set aside.",
+      "Add carrots to the skillet and cook for 2 minutes.",
+      "Stir in cooked noodles, soy sauce, lime juice, and brown sugar; toss to combine.",
+      "Mix in bean sprouts, green onions, and scrambled eggs.",
+      "Top with crushed peanuts before serving."
+    ],
+    "sourceURL": "https://ministryofcurry.com/vegetarian-pad-thai/",
+    "timeCook": "25 mins",
+    "recipeImage": "https://ministryofcurry.com/wp-content/uploads/2021/01/Pad-Thai_-1.jpg"
+  },
+  {
+    "recipeID": 70,
+    "name": "Zucchini Noodles with Pesto",
+    "ingredients": [
+      { "name": "zucchini", "preparation": "4, spiralized" },
+      { "name": "pesto sauce", "preparation": "1/3 cup" },
+      { "name": "cherry tomatoes", "preparation": "1 cup, halved" },
+      { "name": "olive oil", "preparation": "1 tablespoon" },
+      {
+        "name": "parmesan cheese",
+        "preparation": "2 tablespoons, grated"
+      },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Heat olive oil in a skillet over medium heat.",
+      "Add zucchini noodles and cook for 2-3 minutes until slightly tender.",
+      "Stir in pesto sauce and cherry tomatoes; cook for 1 minute.",
+      "Season with salt and pepper, top with parmesan cheese, and serve."
+    ],
+    "sourceURL": "https://cookieandkate.com/zucchini-noodles-with-pesto-recipe/",
+    "timeCook": "15 mins",
+    "recipeImage": "https://cookieandkate.com/images/2016/06/zoodles-with-pesto-and-tomatoes.jpg"
+  },
+  {
+    "recipeID": 71,
+    "name": "Spinach and Feta Stuffed Chicken",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "preparation": "4, boneless and skinless"
+      },
+      { "name": "spinach", "preparation": "1 cup, chopped" },
+      { "name": "feta cheese", "preparation": "1/2 cup, crumbled" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "paprika", "preparation": "1 teaspoon" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a bowl, mix spinach, feta cheese, and garlic.",
+      "Cut a pocket into each chicken breast and stuff with the spinach mixture.",
+      "Season chicken with paprika, salt, and pepper.",
+      "Heat olive oil in a skillet and sear chicken for 2 minutes on each side.",
+      "Transfer to a baking dish and bake for 20-25 minutes, until cooked through."
+    ],
+    "sourceURL": "https://feelgoodfoodie.net/recipe/spinach-feta-stuffed-chicken/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://feelgoodfoodie.net/wp-content/uploads/2017/03/Spinach-_-Feta-Stuffed-Chicken-11.jpg"
+  },
+  {
+    "recipeID": 72,
+    "name": "Sweet Potato and Black Bean Tacos",
+    "ingredients": [
+      { "name": "sweet potatoes", "preparation": "2 cups, diced" },
+      {
+        "name": "black beans",
+        "preparation": "1 can, drained and rinsed"
+      },
+      { "name": "taco seasoning", "preparation": "2 tablespoons" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "corn tortillas", "preparation": "8" },
+      { "name": "cilantro", "preparation": "1/4 cup, chopped" },
+      { "name": "lime", "preparation": "1, juiced" },
+      { "name": "sour cream", "preparation": "1/4 cup (optional)" }
+    ],
+    "directions": [
+      "Preheat oven to 400°F (200°C).",
+      "Toss sweet potatoes with olive oil and taco seasoning; spread on a baking sheet.",
+      "Roast for 20 minutes, until tender.",
+      "Warm tortillas and fill with roasted sweet potatoes, black beans, cilantro, and a squeeze of lime.",
+      "Top with sour cream if desired and serve."
+    ],
+    "sourceURL": "https://cookieandkate.com/sweet-potato-black-bean-tacos/",
+    "timeCook": "30 mins",
+    "recipeImage": "https://cookieandkate.com/images/2016/10/sweet-potato-black-bean-tacos-2.jpg"
+  },
+  {
+    "recipeID": 73,
+    "name": "Coconut Curry Lentils",
+    "ingredients": [
+      { "name": "red lentils", "preparation": "1 cup, rinsed" },
+      { "name": "coconut milk", "preparation": "1 can" },
+      { "name": "curry powder", "preparation": "1 tablespoon" },
+      { "name": "turmeric", "preparation": "1 teaspoon" },
+      { "name": "onion", "preparation": "1, diced" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "ginger", "preparation": "1 teaspoon, grated" },
+      { "name": "vegetable broth", "preparation": "2 cups" },
+      { "name": "cilantro", "preparation": "1/4 cup, chopped" },
+      { "name": "salt", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Heat a large pot over medium heat and sauté onion, garlic, and ginger.",
+      "Add curry powder and turmeric, stirring for 1 minute.",
+      "Stir in lentils, coconut milk, and vegetable broth; bring to a boil.",
+      "Reduce heat and simmer for 20-25 minutes, until lentils are tender.",
+      "Season with salt and garnish with cilantro before serving."
+    ],
+    "sourceURL": "https://frommybowl.com/coconut-red-lentil-curry/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://frommybowl.com/wp-content/uploads/2019/10/Creamy_Coconut_Red_Lentil_Curry_FromMyBowl_Vegan-6.jpg"
+  },
+  {
+    "recipeID": 74,
+    "name": "Caprese Pasta Salad",
+    "ingredients": [
+      { "name": "pasta", "preparation": "8 oz, cooked" },
+      { "name": "cherry tomatoes", "preparation": "1 cup, halved" },
+      { "name": "mozzarella balls", "preparation": "1 cup, halved" },
+      { "name": "basil leaves", "preparation": "1/4 cup, chopped" },
+      { "name": "balsamic glaze", "preparation": "2 tablespoons" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "In a large bowl, combine cooked pasta, cherry tomatoes, mozzarella balls, and basil.",
+      "Drizzle with olive oil and balsamic glaze; toss to combine.",
+      "Season with salt and pepper to taste.",
+      "Chill for 15 minutes before serving."
+    ],
+    "sourceURL": "https://healthyfitnessmeals.com/caprese-pasta-salad/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://healthyfitnessmeals.com/wp-content/uploads/2020/03/instagram-In-Stream_Square___Caprese-pasta-salad-4.jpg"
+  },
+  {
+    "recipeID": 75,
+    "name": "Beef and Broccoli Stir-Fry",
+    "ingredients": [
+      { "name": "beef strips", "preparation": "1 lb" },
+      { "name": "broccoli florets", "preparation": "3 cups" },
+      { "name": "soy sauce", "preparation": "1/4 cup" },
+      { "name": "brown sugar", "preparation": "1 tablespoon" },
+      {
+        "name": "cornstarch",
+        "preparation": "1 tablespoon, dissolved in water"
+      },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "ginger", "preparation": "1 teaspoon, grated" },
+      { "name": "vegetable oil", "preparation": "2 tablespoons" }
+    ],
+    "directions": [
+      "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+      "Cook beef strips until browned; remove and set aside.",
+      "Add garlic, ginger, and broccoli to the skillet; cook for 3-5 minutes.",
+      "Stir in soy sauce, brown sugar, and cornstarch mixture; cook until sauce thickens.",
+      "Return beef to the skillet and toss to combine. Serve hot with rice."
+    ],
+    "sourceURL": "https://feelgoodfoodie.net/recipe/beef-broccoli-stir-fry/",
+    "timeCook": "25 mins",
+    "recipeImage": "https://feelgoodfoodie.net/wp-content/uploads/2023/04/Beef-and-Broccoli-Stir-Fry-TIMG.jpg"
+  },
+  {
+    "recipeID": 76,
+    "name": "Eggplant Parmesan",
+    "ingredients": [
+      { "name": "eggplant", "preparation": "2 large, sliced" },
+      { "name": "breadcrumbs", "preparation": "1 cup" },
+      { "name": "parmesan cheese", "preparation": "1/2 cup, grated" },
+      { "name": "mozzarella cheese", "preparation": "1 cup, shredded" },
+      { "name": "marinara sauce", "preparation": "1 jar" },
+      { "name": "eggs", "preparation": "2, beaten" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" },
+      { "name": "olive oil", "preparation": "2 tablespoons" }
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "Dip eggplant slices in beaten eggs, then coat with a mixture of breadcrumbs and parmesan cheese.",
+      "Heat olive oil in a skillet and fry eggplant slices until golden.",
+      "Layer marinara sauce, fried eggplant, and mozzarella cheese in a baking dish.",
+      "Repeat layers and bake for 20-25 minutes until bubbly and golden."
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/25321/eggplant-parmesan-ii/",
+    "timeCook": "45 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/L9wpL6T8bgfo7C09-Euoa-OSN0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25321-eggplant-parmesan-ii-DDMFS-4x3-6d53ce79765b4c3d9f554d2a47e14d00.jpg"
+  },
+  {
+    "recipeID": 77,
+    "name": "Lemon Garlic Roasted Chicken",
+    "ingredients": [
+      { "name": "whole chicken", "preparation": "1 (4-5 lbs)" },
+      { "name": "lemon", "preparation": "1, halved" },
+      { "name": "garlic cloves", "preparation": "6, smashed" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "fresh thyme", "preparation": "1 tablespoon" },
+      { "name": "fresh rosemary", "preparation": "1 tablespoon" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Preheat the oven to 400°F (200°C).",
+      "Stuff the chicken cavity with lemon halves, garlic cloves, and fresh herbs.",
+      "Rub the chicken with olive oil, salt, and pepper.",
+      "Roast for 1.5-2 hours or until the chicken reaches an internal temperature of 165°F (75°C).",
+      "Let rest for 10 minutes before serving."
+    ],
+    "sourceURL": "https://www.bonappetit.com/recipe/no-fail-roast-chicken-with-lemon-and-garlic",
+    "timeCook": "120 mins",
+    "recipeImage": "https://assets.bonappetit.com/photos/62f5674caf9bae430097be0f/1:1/w_2560%2Cc_limit/0810-no-fail-roast-chicken-v2.jpg"
+  },
+  {
+    "recipeID": 78,
+    "name": "Butternut Squash Soup",
+    "ingredients": [
+      {
+        "name": "butternut squash",
+        "preparation": "1 medium, peeled and cubed"
+      },
+      { "name": "onion", "preparation": "1, chopped" },
+      { "name": "carrot", "preparation": "1, peeled and chopped" },
+      { "name": "celery", "preparation": "1 stalk, chopped" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "vegetable broth", "preparation": "4 cups" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" },
+      { "name": "cinnamon", "preparation": "1/2 teaspoon" }
+    ],
+    "directions": [
+      "In a large pot, heat olive oil over medium heat.",
+      "Add onion, carrot, celery, and garlic; sauté until softened.",
+      "Add butternut squash, vegetable broth, cinnamon, salt, and pepper.",
+      "Bring to a boil, then reduce to a simmer for 30 minutes until squash is tender.",
+      "Puree the soup using an immersion blender or in batches in a blender.",
+      "Serve hot."
+    ],
+    "sourceURL": "https://thenaturalnurturer.com/slow-cooker-instant-pot-butternut-squash-soup/",
+    "timeCook": "45 mins",
+    "recipeImage": "https://thenaturalnurturer.com/wp-content/uploads/2023/08/Butternutsquashsoup_-24.jpg"
+  },
+  {
+    "recipeID": 79,
+    "name": "Pork Tenderloin with Apple Cider Glaze",
+    "ingredients": [
+      { "name": "pork tenderloin", "preparation": "1 (1-1.5 lbs)" },
+      { "name": "apple cider", "preparation": "1 cup" },
+      { "name": "honey", "preparation": "2 tablespoons" },
+      { "name": "garlic", "preparation": "3 cloves, minced" },
+      { "name": "rosemary", "preparation": "1 teaspoon" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Preheat oven to 400°F (200°C).",
+      "Heat olive oil in an ovenproof skillet over medium-high heat. Sear the pork on all sides.",
+      "In a small bowl, mix apple cider, honey, garlic, and rosemary.",
+      "Pour the glaze over the pork and transfer the skillet to the oven.",
+      "Roast for 20-25 minutes, or until pork reaches an internal temperature of 145°F (63°C).",
+      "Let the pork rest for 10 minutes before slicing."
+    ],
+    "sourceURL": "https://lideylikes.com/cider-glazed-pork-tenderloin-with-apples-and-onions/",
+    "timeCook": "35 mins",
+    "recipeImage": "https://lideylikes.com/wp-content/uploads/2024/10/pork-tenderloin-feat-1--scaled-1200x630.jpg"
+  },
+  {
+    "recipeID": 80,
+    "name": "Spinach and Ricotta Stuffed Shells",
+    "ingredients": [
+      {
+        "name": "jumbo pasta shells",
+        "preparation": "12 shells, cooked"
+      },
+      { "name": "ricotta cheese", "preparation": "1 1/2 cups" },
+      { "name": "spinach", "preparation": "1 cup, chopped" },
+      { "name": "mozzarella cheese", "preparation": "1 cup, shredded" },
+      { "name": "parmesan cheese", "preparation": "1/4 cup, grated" },
+      { "name": "egg", "preparation": "1, beaten" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "tomato sauce", "preparation": "2 cups" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a mixing bowl, combine ricotta, spinach, mozzarella, parmesan, egg, garlic, salt, and pepper.",
+      "Stuff each cooked pasta shell with the ricotta mixture and place them in a baking dish.",
+      "Cover with tomato sauce and sprinkle with additional mozzarella and parmesan.",
+      "Cover with foil and bake for 25 minutes. Remove foil and bake for another 10 minutes."
+    ],
+    "sourceURL": "https://www.forkknifeswoon.com/spinach-and-ricotta-stuffed-shells/",
+    "timeCook": "45 mins",
+    "recipeImage": "https://www.forkknifeswoon.com/wp-content/uploads/2013/05/StuffedShellswithSpinachRicotta5-ThumbWEB.jpg"
+  },
+  {
+    "recipeID": 81,
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "preparation": "2, sliced into strips"
+      },
+      { "name": "bell peppers", "preparation": "2, sliced" },
+      { "name": "onion", "preparation": "1, sliced" },
+      { "name": "garlic", "preparation": "2 cloves, minced" },
+      { "name": "lime", "preparation": "1, juiced" },
+      { "name": "chili powder", "preparation": "1 teaspoon" },
+      { "name": "cumin", "preparation": "1 teaspoon" },
+      { "name": "olive oil", "preparation": "2 tablespoons" },
+      { "name": "salt", "preparation": "to taste" },
+      { "name": "black pepper", "preparation": "to taste" }
+    ],
+    "directions": [
+      "In a bowl, combine chicken, garlic, lime juice, chili powder, cumin, salt, and pepper.",
+      "Heat olive oil in a skillet over medium-high heat.",
+      "Cook chicken until browned and cooked through, about 7-8 minutes.",
+      "Add bell peppers and onion to the skillet and cook for 5 minutes until softened.",
+      "Serve with tortillas and your favorite toppings."
+    ],
+    "sourceURL": "https://easyweeknightrecipes.com/grilled-chicken-fajitas/",
+    "timeCook": "20 mins",
+    "recipeImage": "https://easyweeknightrecipes.com/wp-content/uploads/2021/07/grilled-chicken-fajitas-6.jpg"
+  },
+  {
+    "recipeID": 82,
+    "name": "Fried Cabbage with Bacon, Onion, and Garlic",
+    "ingredients": [
+      {
+        "name": "bacon",
+        "preparation": "6 slices bacon, chopped"
+      },
+      {
+        "name": "onion",
+        "preparation": "1 large onion, diced"
+      },
+      {
+        "name": "garlic",
+        "preparation": "2 cloves garlic, minced"
+      },
+      {
+        "name": "cabbage",
+        "preparation": "1 large head cabbage, cored and sliced"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 tablespoon salt, or to taste"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "1 teaspoon ground black pepper"
+      },
+      {
+        "name": "onion powder",
+        "preparation": "1/2 teaspoon onion powder"
+      },
+      {
+        "name": "garlic powder",
+        "preparation": "1/2 teaspoon garlic powder"
+      },
+      {
+        "name": "paprika",
+        "preparation": "1/8 teaspoon paprika"
+      }
+    ],
+    "directions": [
+      "Gather all ingredients",
+      "Place bacon in a large stockpot and cook over medium-high heat until crispy, about 10 minutes",
+      "Add onion and garlic; cook and stir until onion caramelizes, about 10 minutes",
+      "Immediately stir in cabbage and continue to cook and stir another 10 minutes",
+      "Season with salt, pepper, onion powder, garlic powder, and paprika. Reduce heat to low, cover, and simmer, stirring occasionally, about 30 minutes more",
+      "Enjoy!"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/196732/fried-cabbage-with-bacon-onion-and-garlic/",
+    "timeCook": "75 mins",
+    "recipeImage": "https://www.allrecipes.com/thmb/VtxTZ5xp_xIwxyAVmK4xyeXOyTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-4x3-15611-web-c933e63ec9d049ff86576059a7782159.jpg"
+  },
+  {
+    "recipeID": 83,
+    "name": "Garlic and Onion Burgers",
+    "ingredients": [
+      {
+        "name": "beef",
+        "preparation": "2 pounds ground beef"
+      },
+      {
+        "name": "onion",
+        "preparation": "1/2 cup minced onion"
+      },
+      {
+        "name": "garlic",
+        "preparation": "3 cloves garlic, minced"
+      },
+      {
+        "name": "sauce",
+        "preparation": "1 tablespoon Worcestershire sauce"
+      },
+      {
+        "name": "seasoning",
+        "preparation": "1 teaspoon Italian seasoning"
+      },
+      {
+        "name": "salt",
+        "preparation": "1 teaspoon salt"
+      },
+      {
+        "name": "black pepper",
+        "preparation": "1/2 teaspoon ground black pepper"
+      }
+    ],
+    "directions": [
+      "Mix ground beef, onion, garlic, Worcestershire sauce, Italian seasoning, salt, and pepper together in a large bowl until well combined. Cover and refrigerate for 2 to 4 hours",
+      "When ready to cook, preheat an outdoor grill for high heat and lightly oil the grate. Remove beef mixture from the refrigerator and form into six 1/2-inch-thick patties",
+      "Cook on the preheated grill until no longer pink in the center, about 3 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)"
+    ],
+    "sourceURL": "https://www.allrecipes.com/recipe/14543/garlic-and-onion-burgers/",
+    "timeCook": "120 mins",
+    "recipeImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1055214.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
   }
 ]
