@@ -47,6 +47,10 @@ const recipeSchema = new mongoose.Schema({
     type: Date,
     default: Date.now(), // create time at current time
   },
+  isFavorite: {
+    type: Boolean,
+    default: false,
+  },
 });
 
 /////////////////////////////////////////////////////////

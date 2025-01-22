@@ -1,26 +1,26 @@
 const jwt = require("jsonwebtoken");
 
 const authenticate = (req, res, next) => {
-  const cookies = req.cookies;
-  if (!cookies) {
-    return res.status(401).json({ message: "No authentication token found." }); // Proper response if token is missing
-  }
+    const cookies = req.cookies.jwt;
+    console.log('log from authenticate: ', cookies);
+    console.log('log from auth (header) ', req.headers);
 
-  const token = cookies.jwt; // Extract token from cookies
 
-  if (!token)
-    return res
-      .status(401)
-      .json({ message: "Unauthorized access. Please login first." }); // No token, unauthorized with message // No token, unauthorized
+    if (!cookies) {
+        return res.status(401).json({ message: "No authentication token found." }); // Proper response if token is missing
+    }
 
-  // Verify the token
-  jwt.verify(token, process.env.ACCESS_TOKEN_SECRET, (err, decoded) => {
-    if (err) return res.sendStatus(403); // Forbidden - invalid or expired token
+    const token = req.cookies.jwt; // Extract token from cookies
+    if (!token) return res.status(401).json({ message: "Unauthorized access. Please login first." }); // No token, unauthorized with message // No token, unauthorized
 
-    req.user = decoded.username; // Add the decoded username to the request object
+    // Verify the token
+    jwt.verify(token, process.env.ACCESS_TOKEN_SECRET, (err, decoded) => {
+        if (err) return res.sendStatus(403); // Forbidden - invalid or expired token
 
-    next(); // Proceed to the next middleware or route handler
-  });
+        req.user = decoded.username; // Add the decoded username to the request object
+
+        next(); // Proceed to the next middleware or route handler
+    });
 };
 
 module.exports = authenticate;

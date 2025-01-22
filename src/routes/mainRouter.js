@@ -23,10 +23,9 @@ const {
   deleteFavorite,
 } = require("../controllers/favoriteController.js");
 
-// const authenticate = require("../middleware/authenticate");
 /* ============================================================= */
-router.get("/", authenticate, (req, res) => res.status(200).json({ 
-    message: 'User is logged in.', user: req.user 
+router.get("/", authenticate, (req, res) => res.status(200).json({
+  message: 'User is logged in.', user: req.user
 }));
 
 router.get("/recipes", getRecipes);
@@ -41,9 +40,9 @@ router.post("/login", login);
 router.post("/logout", logout);
 
 //
-router.get("/favorite", authenticate, getAllFavorite);
-router.post("/favorite", authenticate, createFavorite);
-router.delete("/favorite", authenticate, deleteFavorite);
+router.get("/favorites", authenticate, getAllFavorite);
+router.post("/favorites", authenticate, createFavorite);
+router.delete("/favorites", authenticate, deleteFavorite);
 
 /* ============================================================= */
 module.exports = router;
